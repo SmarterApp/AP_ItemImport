@@ -25,7 +25,6 @@ security:
 spring:
   session:
     enabled: "${SESSION_CLUSTER_ENABLED:true}"
-    store-type: none
 
 itembank:
   host: "https://gitlab-dev.smarterbalanced.org"

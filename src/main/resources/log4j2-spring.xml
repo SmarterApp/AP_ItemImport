@@ -14,7 +14,7 @@
         </Console>
         <Socket name="Graylog" protocol="udp" host="${GRAYLOG_HOST}" port="${GRAYLOG_PORT}" immediateFlush="false">
             <GelfLayout host="${HOSTNAME}" compressionType="ZLIB" compressionThreshold="1024">
-                <KeyValuePair key="application" value="item-migration"/>
+                <KeyValuePair key="application" value="item-import"/>
                 <KeyValuePair key="system" value="iat"/>
             </GelfLayout>
         </Socket>
