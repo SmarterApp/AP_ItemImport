@@ -46,16 +46,11 @@ logging:
           itemimport: "debug"
           common: "info"
 
-#migration:
-#  systemUsername: "item-migration@smarterbalanced.org"
-#  systemFullname: "Item Migration"
-#  includedItems:
-#    - 200004
-#  migrationsEnabled: true
-#  migrationSets:
-#    -
-#      migrationSetKey: "iat-5"
-#      migrationDefinitions:
-#        -
-#          migrationName: "migrationUpdateItemVersion"
-#          migrationDescription: "Migration: increment item version to iat-5"
+item-import:
+  importEnabled: true
+  sourceDir: "/Users/alexponce/ItemImportSource"
+  destinationGroup: "iat-alex"
+  includeFile: "/Users/alexponce/ItemImportSource/import-ids.txt"
+  excludeFile: ""
+  systemUsername: "item-import@smarterbalanced.org"
+  systemFullname: "Item Import"
