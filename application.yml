@@ -50,4 +50,3 @@ item-import:
   importEnabled: true
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
-  localImportDir: "${HOME}/ItemImportLocal"
