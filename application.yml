@@ -48,10 +48,6 @@ logging:
 
 item-import:
   importEnabled: true
-  sourceDir: "/Users/alexponce/ItemImportSource"
-  destinationGroup: "iat-alex"
-  includeFile: "/Users/alexponce/ItemImportSource/import-ids.txt"
-  excludeFile: ""
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
   localImportDir: "${HOME}/ItemImportLocal"
