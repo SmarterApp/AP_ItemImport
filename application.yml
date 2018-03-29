@@ -48,5 +48,8 @@ logging:
 
 item-import:
   importEnabled: true
+  sourceDir: "/Users/alexponce/ItemImportSource"
+  includeFile: "/Users/alexponce/ItemImportSource/import-ids.txt"
+  excludeFile: ""
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
