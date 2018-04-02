@@ -48,7 +48,7 @@ logging:
 
 item-import:
   importEnabled: true
-  sourceDir: "/Users/alexponce/ItemImportSource"
+  sourceDir: "/Users/alexponce/ItemImportSource/tds/stimuli"
   includeFile: "/Users/alexponce/ItemImportSource/import-ids.txt"
   excludeFile: ""
   systemUsername: "item-import@smarterbalanced.org"
