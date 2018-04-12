@@ -12,11 +12,10 @@ The following items were imported successfully
 <#list report.importResults>
     <#items as result>
         <#if result.status == "Success">
-            ${result.item.id?left_pad(4)},${result.item.type?left_pad(10)}
+${result.item.id?left_pad(4)},${result.item.type?left_pad(5)}
         </#if>
     </#items>
 </#list>
-
 
 ==================================================
 The following errors were reported while importing
@@ -26,7 +25,7 @@ The following errors were reported while importing
         <#if result.status == "Error">
             <#list result.errorMessages>
                 <#items as error>
-                    ${error}
+${error}
                 </#items>
             </#list>
         </#if>
