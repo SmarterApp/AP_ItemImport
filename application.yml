@@ -31,7 +31,7 @@ itembank:
   accessToken: "${GITLAB_ACCESS_TOKEN}"
   user: "${GITLAB_USER}"
   password: "${GITLAB_PASSWORD}"
-  group: "iat-development"
+  group: "${GITLAB_GROUP}"
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"

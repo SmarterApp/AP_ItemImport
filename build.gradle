@@ -65,7 +65,7 @@ configurations {
 }
 
 dependencies {
-    compile 'org.opentestsystem.ap:ap-common:0.3.30-SNAPSHOT'
+    compile 'org.opentestsystem.ap:ap-common:0.3.34-SNAPSHOT'
 
     compile 'org.springframework.boot:spring-boot-starter-actuator'
     compile 'org.springframework.boot:spring-boot-starter-security'
