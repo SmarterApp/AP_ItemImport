@@ -13,7 +13,7 @@
 # working directory is the project root.
 # --------------------------------------------------------
 server:
-  port: 8088
+  port: 8099
 
 security:
   basic:
@@ -32,10 +32,11 @@ itembank:
   user: "${GITLAB_USER}"
   password: "${GITLAB_PASSWORD}"
   group: "${GITLAB_GROUP}"
+#  group: "iat-development"
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"
-  systemVersion: "iat-5"
+  systemVersion: "iat-6"
 
 logging:
   level:
@@ -48,7 +49,7 @@ logging:
 item-import:
   importEnabled: true
   sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
-  includeFile: "/Users/alexponce/ItemImportSource/import-ids.txt"
+  includeFile: "import-ids.txt"
   excludeFile: ""
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
