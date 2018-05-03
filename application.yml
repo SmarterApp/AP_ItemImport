@@ -48,6 +48,7 @@ logging:
 
 item-import:
   importEnabled: true
+  deleteIfExists: false
   sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
   includeFile: "import-ids.txt"
   excludeFile: ""
