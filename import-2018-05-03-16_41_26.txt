@@ -1,0 +1,19 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: May 3, 2018 4:41:26 PM
+      End Time: May 3, 2018 4:45:12 PM
+Execution Time: 3 min, 45 sec
+
+==================================================
+The following errors were reported while importing
+- Error processing import: item-200-101960 null 
+
+==================================================
+The following events occurred while importing
+
+
+==================================================
+The following items were imported successfully
