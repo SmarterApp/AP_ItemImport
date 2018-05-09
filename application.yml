@@ -48,7 +48,7 @@ logging:
 
 item-import:
   importEnabled: true
-  deleteIfExists: false
+  deleteIfExists: true
   deleteSleepTimeout: 4
   sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
   includeFile: "import-ids.txt"
