@@ -31,8 +31,8 @@ itembank:
   accessToken: "${GITLAB_ACCESS_TOKEN}"
   user: "${GITLAB_USER}"
   password: "${GITLAB_PASSWORD}"
-#  group: "${GITLAB_GROUP}"
-  group: "iat-development"
+  group: "${GITLAB_GROUP}"
+#  group: "iat-development"
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"
@@ -48,7 +48,7 @@ logging:
 
 item-import:
   importEnabled: true
-  deleteIfExists: true
+  deleteIfExists: false
   deleteSleepTimeout: 4
   sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
   includeFile: "import-ids.txt"

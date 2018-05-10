@@ -1,0 +1,30 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: May 10, 2018 10:09:07 AM
+      End Time: May 10, 2018 10:09:59 AM
+Execution Time: 0 min, 51 sec
+
+==================================================
+The following errors were reported while importing
+
+==================================================
+The following events occurred while importing
+
+
+==================================================
+The following items were imported successfully
+- 77754,   ti
+- 9757,   ti
+- 6241,   ti
+- 12891,   ti
+- 6119,   ti
+- 76749,   ti
+- 76745,   ti
+- 19678,   ti
+- 11221,   ti
+- 25662,   ti
+- 6117,   ti
+- 10188,   ti

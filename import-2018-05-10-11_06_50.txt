@@ -1,0 +1,42 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: May 10, 2018 11:06:50 AM
+      End Time: May 10, 2018 11:08:24 AM
+Execution Time: 1 min, 34 sec
+
+==================================================
+The following errors were reported while importing
+
+==================================================
+The following events occurred while importing
+- Deleted project 77754 prior to import
+- Deleted project 6119 prior to import
+- Deleted project 6241 prior to import
+- Deleted project 76749 prior to import
+- Deleted project 25662 prior to import
+- Deleted project 19678 prior to import
+- Deleted project 10188 prior to import
+- Deleted project 76745 prior to import
+- Deleted project 9757 prior to import
+- Deleted project 11221 prior to import
+- Deleted project 6117 prior to import
+- Deleted project 12891 prior to import
+
+
+==================================================
+The following items were imported successfully
+- 77754,   ti
+- 6119,   ti
+- 6241,   ti
+- 76749,   ti
+- 25662,   ti
+- 19678,   ti
+- 10188,   ti
+- 76745,   ti
+- 9757,   ti
+- 11221,   ti
+- 6117,   ti
+- 12891,   ti
