@@ -37,7 +37,7 @@ itembank:
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"
-  systemVersion: "iat-10"
+  systemVersion: "iat-13"
 
 logging:
   level:
