@@ -54,6 +54,7 @@ item-import:
   deleteIfExists: false
   deleteSleepTimeout: 4
   sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
+  wordlistSourceDir: "/Users/alexponce/ItemImportSource/prod/wordlists"
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
