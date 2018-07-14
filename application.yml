@@ -37,7 +37,7 @@ itembank:
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"
-  systemVersion: "iat-13"
+  systemVersion: "iat-15"
 
 logging:
   level:
@@ -51,7 +51,7 @@ item-import:
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
   importEnabled: true
-  deleteIfExists: false
+  deleteIfExists: true
   deleteSleepTimeout: 4
   sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
   wordlistSourceDir: "/Users/alexponce/ItemImportSource/prod/wordlists"
