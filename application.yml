@@ -51,7 +51,7 @@ item-import:
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
   importEnabled: true
-  deleteIfExists: true
+  deleteIfExists: false
   deleteSleepTimeout: 4
   sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
   wordlistSourceDir: "/Users/alexponce/ItemImportSource/prod/wordlists"
