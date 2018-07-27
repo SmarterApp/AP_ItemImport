@@ -51,9 +51,10 @@ item-import:
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
   importEnabled: true
-  deleteIfExists: false
+  deleteIfExists: true
   deleteSleepTimeout: 4
-  sourceDir: "/Users/alexponce/ItemImportSource/prod/items"
+  itemSourceDir: "/Users/alexponce/ItemImportSource/prod/items"
+  stimuliSourceDir: "/Users/alexponce/ItemImportSource/prod/stimuli"
   wordlistSourceDir: "/Users/alexponce/ItemImportSource/prod/wordlists"
   includeFile: "import-ids.txt"
   numberOfThreads: 4
