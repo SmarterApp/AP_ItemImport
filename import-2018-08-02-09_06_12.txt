@@ -1,0 +1,22 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: Aug 2, 2018 9:06:12 AM
+      End Time: Aug 2, 2018 9:06:31 AM
+Execution Time: 0 min, 19 sec
+
+==================================================
+The following errors were reported while importing
+
+==================================================
+The following events occurred while importing
+
+
+==================================================
+The following items were imported successfully
+- 181692,   sa
+
+
+==================================================

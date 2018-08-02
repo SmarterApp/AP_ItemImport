@@ -1,0 +1,22 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: Aug 2, 2018 8:45:15 AM
+      End Time: Aug 2, 2018 8:45:15 AM
+Execution Time: 0 min, 0 sec
+
+==================================================
+The following errors were reported while importing
+- Error processing import: Item-187-1692 Unable to find associated passage or tutorial to 1692 Resource 181078 not found
+
+==================================================
+The following events occurred while importing
+
+
+==================================================
+The following items were imported successfully
+
+
+==================================================

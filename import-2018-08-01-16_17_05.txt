@@ -1,0 +1,24 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: Aug 1, 2018 4:17:05 PM
+      End Time: Aug 1, 2018 4:17:26 PM
+Execution Time: 0 min, 20 sec
+
+==================================================
+The following errors were reported while importing
+- Source directory not found: item-200-129
+
+==================================================
+The following events occurred while importing
+- Deleted project 67866 prior to import
+
+
+==================================================
+The following items were imported successfully
+- 67866,  tut
+
+
+==================================================

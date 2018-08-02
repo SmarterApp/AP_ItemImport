@@ -1,0 +1,23 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: Aug 1, 2018 4:42:52 PM
+      End Time: Aug 1, 2018 4:43:13 PM
+Execution Time: 0 min, 21 sec
+
+==================================================
+The following errors were reported while importing
+
+==================================================
+The following events occurred while importing
+- Deleted project 67775 prior to import
+
+
+==================================================
+The following items were imported successfully
+- 67775,  tut
+
+
+==================================================

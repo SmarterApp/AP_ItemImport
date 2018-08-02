@@ -1,0 +1,41 @@
+
+==================================================
+Import Report Summary
+==================================================
+
+    Start Time: Aug 1, 2018 5:06:42 PM
+      End Time: Aug 1, 2018 5:07:52 PM
+Execution Time: 1 min, 10 sec
+
+==================================================
+The following errors were reported while importing
+
+==================================================
+The following events occurred while importing
+- Deleted project 67859 prior to import
+- Deleted project 67863 prior to import
+- Deleted project 67860 prior to import
+- Deleted project 67708 prior to import
+- Deleted project 67861 prior to import
+- Deleted project 72860 prior to import
+- Deleted project 67775 prior to import
+- Deleted project 67866 prior to import
+- Deleted project 67865 prior to import
+- Deleted project 67864 prior to import
+
+
+==================================================
+The following items were imported successfully
+- 67859,  tut
+- 67863,  tut
+- 67860,  tut
+- 67708,  tut
+- 67861,  tut
+- 72860,  tut
+- 67775,  tut
+- 67866,  tut
+- 67865,  tut
+- 67864,  tut
+
+
+==================================================
