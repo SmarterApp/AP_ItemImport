@@ -8,20 +8,6 @@ Import Report Summary
 Execution Time: ${report.executionTime}
 
 ==================================================
-The following errors were reported while importing
-<#list report.importResults>
-    <#items as result>
-        <#if result.status == "Error">
-            <#list result.errorMessages>
-                <#items as error>
-- ${error}
-                </#items>
-            </#list>
-        </#if>
-    </#items>
-</#list>
-
-==================================================
 The following events occurred while importing
 <#list report.importResults>
     <#items as result>
@@ -33,6 +19,17 @@ The following events occurred while importing
     </#items>
 </#list>
 
+==================================================
+The following errors were reported while importing
+<#list report.importResults>
+    <#items as result>
+        <#list result.errorMessages>
+            <#items as error>
+- ${error}
+            </#items>
+        </#list>
+    </#items>
+</#list>
 
 ==================================================
 The following items were imported successfully
