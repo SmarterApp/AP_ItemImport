@@ -53,9 +53,9 @@ item-import:
   importEnabled: true
   deleteIfExists: true
   deleteSleepTimeout: 4
-  itemSourceDir: "/Users/alexponce/ItemImportSource/prod-02/items"
-  stimuliSourceDir: "/Users/alexponce/ItemImportSource/prod-02/stimuli"
-  wordlistSourceDir: "/Users/alexponce/ItemImportSource/prod-02/wordlists"
+  itemSourceDir: "/Users/alexponce/ItemImportSource/prod-01/items"
+  stimuliSourceDir: "/Users/alexponce/ItemImportSource/prod-01/stimuli"
+  wordlistSourceDir: "/Users/alexponce/ItemImportSource/prod-01/wordlists"
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
