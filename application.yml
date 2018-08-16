@@ -31,13 +31,13 @@ itembank:
   accessToken: "${GITLAB_ACCESS_TOKEN}"
   user: "${GITLAB_USER}"
   password: "${GITLAB_PASSWORD}"
-  group: "${GITLAB_GROUP}"
-#  group: "iat-development"
+#  group: "${GITLAB_GROUP}"
+  group: "iat-development"
 #  group: "iat-uat"
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"
-  systemVersion: "iat-17"
+  systemVersion: "iat-18"
 
 logging:
   level:
