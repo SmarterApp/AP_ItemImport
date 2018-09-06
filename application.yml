@@ -80,9 +80,10 @@ item-import:
   importEnabled: true
   deleteIfExists: false
   deleteSleepTimeout: 4
-  itemSourceDir: "/Users/aponce/ItemImportSource/prod-01/items"
-  stimuliSourceDir: "/Users/aponce/ItemImportSource/prod-01/stimuli"
-  wordlistSourceDir: "/Users/aponce/ItemImportSource/prod-01/wordlists"
+  localBaseDir: "${HOME}/ItemImportTemp"
+  itemSourceDir: "${HOME}/ItemImportSource/prod-01/items"
+  stimuliSourceDir: "${HOME}/ItemImportSource/prod-01/stimuli"
+  wordlistSourceDir: "${HOME}/ItemImportSource/prod-01/wordlists"
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
