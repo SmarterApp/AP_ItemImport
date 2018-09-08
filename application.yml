@@ -25,12 +25,19 @@ security:
 spring:
   session:
     enabled: "${SESSION_CLUSTER_ENABLED:true}"
-  autoconfigure:
-    exclude:
-    - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
-    - org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration
-    - org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration
-    - org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/iat"
+    username: "${DB_USER}"
+    password: "${DB_PASSWORD}"
+    validationQuery: "SELECT 1"
+  jpa:
+    hibernate:
+      ddl-auto: "validate"
+    properties:
+      hibernate:
+        show_sql: true
+        use_sql_comments: true
+        format_sql: true
 
 itembank:
   host: "https://gitlab-dev.smarterbalanced.org"
@@ -44,6 +51,20 @@ itembank:
   apiVersion: "/api/v4"
   bankKey: "187"
   systemVersion: "iat-18"
+  manager:
+    enabled: true
+  aws:
+    endpointUrl: "https://s3.us-east-2.amazonaws.com"
+    region: "us-east-2"
+    bucketName: "${itembank.group}"
+    accessKey: "${IAT_AWS_ACCESS_KEY}"
+    secretKey: "${IAT_AWS_ACCESS_SECRET}"
+  events:
+    exchange: "iat_item_event_exchange"
+    queue: "iat_item_event_queue"
+    eventKey: "iat.item.event.*"
+    error-queue: "iat_item_event_queue.dlq"
+    error-event-key: "error.iat.item.event.*"
 
 logging:
   level:
@@ -57,11 +78,12 @@ item-import:
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
   importEnabled: true
-  deleteIfExists: true
+  deleteIfExists: false
   deleteSleepTimeout: 4
-  itemSourceDir: "/Users/alexponce/ItemImportSource/prod-01/items"
-  stimuliSourceDir: "/Users/alexponce/ItemImportSource/prod-01/stimuli"
-  wordlistSourceDir: "/Users/alexponce/ItemImportSource/prod-01/wordlists"
+  localBaseDir: "${HOME}/ItemImportTemp"
+  itemSourceDir: "${HOME}/ItemImportSource/prod-01/items"
+  stimuliSourceDir: "${HOME}/ItemImportSource/prod-01/stimuli"
+  wordlistSourceDir: "${HOME}/ItemImportSource/prod-01/wordlists"
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true

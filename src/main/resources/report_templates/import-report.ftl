@@ -13,7 +13,7 @@ The following events occurred while importing
     <#items as result>
         <#list result.infoMessages>
             <#items as info>
-- ${info}
+"${result.item.id}","${info}"
             </#items>
         </#list>
     </#items>
@@ -25,7 +25,7 @@ The following errors were reported while importing
     <#items as result>
         <#list result.errorMessages>
             <#items as error>
-- ${error}
+"${result.item.id}","${error}"
             </#items>
         </#list>
     </#items>
@@ -35,8 +35,8 @@ The following errors were reported while importing
 The following items were imported successfully
 <#list report.importResults>
     <#items as result>
-        <#if result.status == "Success">
-- ${result.item.id?left_pad(4)},${result.item.type?left_pad(5)}
+        <#if result.status == "SUCCESS">
+"${result.item.id}","${result.item.type}"
         </#if>
     </#items>
 </#list>
