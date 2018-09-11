@@ -45,8 +45,6 @@ itembank:
   user: "${GITLAB_USER}"
   password: "${GITLAB_PASSWORD}"
   group: "${GITLAB_GROUP}"
-#  group: "iat-development"
-#  group: "iat-uat"
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"
@@ -87,3 +85,21 @@ item-import:
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
+
+---
+spring:
+  profiles: dev
+  datasource:
+    url: "jdbc:postgresql://imrt-qa-db.cjqp2fdamfoh.us-east-2.rds.amazonaws.com:5432/iat"
+
+itembank:
+  group: "iat-development"
+
+---
+spring:
+  profiles: uat
+  datasource:
+    url: "jdbc:mysql://iat-uat-db.cjqp2fdamfoh.us-east-2.rds.amazonaws.com:3306/iat?useSSL=false"
+
+itembank:
+  group: "iat-uat"
