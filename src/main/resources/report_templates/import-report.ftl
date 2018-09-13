@@ -9,11 +9,12 @@ Execution Time: ${report.executionTime}
 
 ==================================================
 The following events occurred while importing
+"source id","status","info message"
 <#list report.importResults>
     <#items as result>
         <#list result.infoMessages>
             <#items as info>
-"${result.item.id}","info","${info}"
+"${result.itemId}","info","${info}"
             </#items>
         </#list>
     </#items>
@@ -21,11 +22,12 @@ The following events occurred while importing
 
 ==================================================
 The following errors were reported while importing
+"source id","status","error message"
 <#list report.importResults>
     <#items as result>
         <#list result.errorMessages>
             <#items as error>
-"${result.item.id}","error","${error}"
+"${result.itemId}","error","${error}"
             </#items>
         </#list>
     </#items>
@@ -33,10 +35,11 @@ The following errors were reported while importing
 
 ==================================================
 The following items were imported successfully
+"source id","imported id","status","item type"
 <#list report.importResults>
     <#items as result>
         <#if result.status == "SUCCESS">
-"${result.item.id}","success","${result.item.type}"
+"${result.itemId}","${result.importedItemId}","success","${result.itemType}"
         </#if>
     </#items>
 </#list>
