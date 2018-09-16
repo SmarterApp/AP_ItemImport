@@ -49,8 +49,10 @@ itembank:
   apiVersion: "/api/v4"
   bankKey: "187"
   systemVersion: "iat-18"
-  manager:
-    enabled: true
+  enabled:
+    manager: true
+    database: true
+    producer: true
   aws:
     endpointUrl: "https://s3.us-east-2.amazonaws.com"
     region: "us-east-2"
