@@ -81,9 +81,9 @@ item-import:
   deleteIfExists: false
   deleteSleepTimeout: 4
   localBaseDir: "${HOME}/ItemImportTemp"
-  itemSourceDir: "${HOME}/ItemImportSource/tds02/items"
-  stimuliSourceDir: "${HOME}/ItemImportSource/tds02/stimuli"
-  wordlistSourceDir: "${HOME}/ItemImportSource/tds02/items"
+  itemSourceDir: "${HOME}/ItemImportSource/prod/items"
+  stimuliSourceDir: "${HOME}/ItemImportSource/prod/stimuli"
+  wordlistSourceDir: "${HOME}/ItemImportSource/prod/wordlists"
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
@@ -101,7 +101,7 @@ itembank:
 spring:
   profiles: uat
   datasource:
-    url: "jdbc:mysql://iat-uat-db.cjqp2fdamfoh.us-east-2.rds.amazonaws.com:3306/iat?useSSL=false"
+    url: "jdbc:postgresql://imrt-db-uat-aurora.cjqp2fdamfoh.us-east-2.rds.amazonaws.com:5432/iat"
 
 itembank:
   group: "iat-uat"
