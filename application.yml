@@ -87,6 +87,8 @@ item-import:
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
+  workflowMapping:
+    operational: "Operational"
 
 ---
 spring:
