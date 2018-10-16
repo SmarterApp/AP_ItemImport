@@ -48,7 +48,7 @@ itembank:
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "187"
-  systemVersion: "iat-18"
+  systemVersion: "iat-24"
   enabled:
     manager: true
     database: true

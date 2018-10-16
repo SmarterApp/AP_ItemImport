@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<itemrelease version="2.0">
+  <item format="sa" id="13310" version="21" bankkey="200">
+    <associatedpassage>129</associatedpassage>
+    <attriblist>
+      <attrib attid="itm_item_id">
+        <name>Item: ITS ID</name>
+        <val>13310</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_item_subject">
+        <name>Item: Subject</name>
+        <val>MATH</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_item_desc">
+        <name>Item: Item Description</name>
+        <val>CellPhones_6_Stime1_Item5</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_FTUse">
+        <name>Fieldtest Use</name>
+        <val>Platform::MG6::12.3 (39); SBAC-FT-Perf-6-Math-CellPhones-1 (3); SBAC-FT-Perf-6-Math-CellPhones-1-Braille (3); SBAC-FT-Perf-6-Math-CellPhones-1-ESN (3); SBAC-FT-Perf-6-Math-CellPhones-1-SS (3); SBAC-FT-Perf-7-Math-CellPhones-1-SS-DWN (3); SBAC-FT-Perf-6-Math-CellPhones-1-SS-Braille (3); SBAC-FT-Perf-6-Math-CellPhones-1-SS-ESN (3);</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_OPUse">
+        <name>Operational Use</name>
+        <val>Math ICA Perf G6 CellPhonePlan 2015 ENG (5); Math ICA Perf G6 CellPhonePlan 2015 BRL (5); Math ICA Perf G6 CellPhonePlan 2015 SPA (5); Math OP Perf G6 Name 2015 ENG (5); Math OP Perf G6 Name 2015 BRL (5); Math OP Perf G6 Name 2015 SPA (5); Math ICA Perf G6 CellPhonePlan COMBINED 2015 ENG (5); Math ICA Perf G6 CellPhonePlan COMBINED 2015 BRL (5); Math ICA Perf G6 CellPhonePlan COMBINED 2015 SPA (5); IAB-G6M-PT-CellPhonePlan-2015 ENG (5); IAB-G6M-PT-CellPhonePlan-2015 BRL (5); IAB-G6M-PT-CellPhonePlan-2015 SPA (5); IAB-G6M-PT-CellPhonePlan-2015 ENG-COMBINED (5); IAB-G6M-PT-CellPhonePlan-2015 BRL-COMBINED (5); IAB-G6M-PT-CellPhonePlan-2015 SPA-COMBINED (5); Math ICA Perf G6 CellPhonePlan 2017 ENG (5); Math ICA Perf G6 CellPhonePlan 2017 BRL (5); Math ICA Perf G6 CellPhonePlan 2017 SPA (5); IAB-G6M-PT-2017 ENG (5); IAB-G6M-PT-2017 BRL (5); IAB-G6M-PT-2017 SPA (5); Math ICA Perf G6 CellPhonePlan 2017 ENG COMBINED (5); Math ICA Perf G6 CellPhonePlan 2017 BRL COMBINED (5); Math ICA Perf G6 CellPhonePlan 2017 SPA COMBINED (5); IAB-G6M-PT-2017 ENG-COMBINED (5); IAB-G6M-PT-2017 BRL-COMBINED (5); IAB-G6M-PT-2017 SPA-COMBINED (5); Math ICA Perf G6 CellPhonePlan 2018 ENG (5); Math ICA Perf G6 CellPhonePlan 2018 BRL (5); Math ICA Perf G6 CellPhonePlan 2018 SPA (5); IAB-G6M-PT-2018 ENG (5); IAB-G6M-PT-2018 BRL (5); IAB-G6M-PT-2018 SPA (5); Math ICA Perf G6 CellPhonePlan 2018 ENG COMBINED (5); Math ICA Perf G6 CellPhonePlan 2018 BRL COMBINED (5); Math ICA Perf G6 CellPhonePlan 2018 SPA COMBINED (5); IAB-G6M-PT-2018 ENG COMBINED (5); IAB-G6M-PT-2018 BRL COMBINED (5); IAB-G6M-PT-2018 SPA COMBINED (5);</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Answer Key">
+        <name>Item: Answer Key</name>
+        <val>SA</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Grade">
+        <name>Item: Grade</name>
+        <val>6</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Item Format">
+        <name>Item: Item Format</name>
+        <val>SA</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Page Layout">
+        <name>Item: Page Layout</name>
+        <val>21</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Response Type">
+        <name>Item: Response Type</name>
+        <val>HTMLEditor</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Item Point">
+        <name>Item: Item Point</name>
+        <val>2 pts.</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="stm_pass_id">
+        <name>Stim: ITS ID</name>
+        <val>129</val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Answer Key (Part II)">
+        <name>Item: Answer Key (Part II)</name>
+        <val></val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Max Choices">
+        <name>Item:Max Choices</name>
+        <val></val>
+        <desc></desc>
+      </attrib>
+      <attrib attid="itm_att_Max Choices (Part II)">
+        <name>Item:Max Choices (Part II)</name>
+        <val></val>
+        <desc></desc>
+      </attrib>
+    </attriblist>
+    <tutorial id="67866" bankkey="200" />
+    <resourceslist>
+      <resource type="wordList" id="50075" index="1" bankkey="200" />
+    </resourceslist>
+    <statistic />
+    <content language="ENU" version="2.0">
+      <rationaleoptlist />
+      <stem><![CDATA[<p style=""><span id="item_13310_TAG_1" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>Using<span class="its-tag" data-tag-ref="item_13310_TAG_1" data-tag-boundary="end"></span> the data from “<span style="font-weight:normal; ">Daily Phone Usage Data”</span><span style="font-weight:bold; "> </span><span style="font-weight:normal; ">table,</span><span style="font-weight:bold; "> </span>which plan would you <span id="item_13310_TAG_2" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>recommend<span class="its-tag" data-tag-ref="item_13310_TAG_2" data-tag-boundary="end"></span> to your friend? <span id="item_13310_TAG_3" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>Explain<span class="its-tag" data-tag-ref="item_13310_TAG_3" data-tag-boundary="end"></span> your answer. <span id="item_13310_TAG_4" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>Include<span class="its-tag" data-tag-ref="item_13310_TAG_4" data-tag-boundary="end"></span> <span id="item_13310_TAG_5" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>all<span class="its-tag" data-tag-ref="item_13310_TAG_5" data-tag-boundary="end"></span> mathematics necessary <span id="item_13310_TAG_6" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="6"></span>to support<span class="its-tag" data-tag-ref="item_13310_TAG_6" data-tag-boundary="end"></span> your answer.</p>]]></stem>
+      <rubriclist />
+      <attachmentlist>
+        <attachment id="braillefile1" type="BRF" subtype="nemeth" file="item_13310_enu_nemeth.brf" />
+        <attachment id="aslfile1" type="ASL" subtype="STEM" file="item_13310_ASL_STEM.mp4">
+          <source src="item_13310_ASL_STEM.webm" type="video/webm" />
+          <source src="item_13310_ASL_STEM.mp4" type="video/mp4" />
+        </attachment>
+      </attachmentlist>
+      <apipAccessibility>
+        <accessibilityInfo />
+      </apipAccessibility>
+    </content>
+    <content language="ESN" version="2.0">
+      <stem><![CDATA[<p style=""><span style=""><span style="language:es; country:ES; ">Usando los datos de la tabla </span></span><span style=""><span style="language:es; country:ES; font-weight:bold; ">Datos de uso diario de teléfono</span></span><span style=""><span style="language:es; country:ES; ">,</span></span><span style=""><span style="language:es; country:ES; font-weight:bold; "> </span></span><span style=""><span style="language:es; country:ES; ">¿cuál plan le recomendarías a tu amiga? Explica tu respuesta. </span></span><span style=""><span style="language:es; country:MX; ">Incluye todas las operaciones matemáticas necesarias para apoyar</span></span><span style=""><span style="language:es; country:ES; "> &#xA0;tu respuesta.</span></span></p><p class="languagedivider">&#xA0;</p><p style=""><span id="item_13310_TAG_1" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>Using<span class="its-tag" data-tag-ref="item_13310_TAG_1" data-tag-boundary="end"></span> the data from “<span style="font-weight:normal; ">Daily Phone Usage Data”</span><span style="font-weight:bold; "> </span><span style="font-weight:normal; ">table,</span><span style="font-weight:bold; "> </span>which plan would you <span id="item_13310_TAG_2" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>recommend<span class="its-tag" data-tag-ref="item_13310_TAG_2" data-tag-boundary="end"></span> to your friend? <span id="item_13310_TAG_3" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>Explain<span class="its-tag" data-tag-ref="item_13310_TAG_3" data-tag-boundary="end"></span> your answer. <span id="item_13310_TAG_4" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>Include<span class="its-tag" data-tag-ref="item_13310_TAG_4" data-tag-boundary="end"></span> <span id="item_13310_TAG_5" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>all<span class="its-tag" data-tag-ref="item_13310_TAG_5" data-tag-boundary="end"></span> mathematics necessary <span id="item_13310_TAG_6" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="6"></span>to support<span class="its-tag" data-tag-ref="item_13310_TAG_6" data-tag-boundary="end"></span> your answer.</p>]]></stem>
+      <rubriclist />
+      <attachmentlist>
+        <attachment id="aslfile1" type="ASL" subtype="STEM" file="item_13310_ASL_STEM.mp4">
+          <source src="item_13310_ASL_STEM.webm" type="video/webm" />
+          <source src="item_13310_ASL_STEM.mp4" type="video/mp4" />
+        </attachment>
+      </attachmentlist>
+      <apipAccessibility>
+        <accessibilityInfo />
+      </apipAccessibility>
+    </content>
+  </item>
+</itemrelease>
