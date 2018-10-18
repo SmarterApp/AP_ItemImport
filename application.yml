@@ -47,7 +47,7 @@ itembank:
   group: "${GITLAB_GROUP}"
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
-  bankKey: "187"
+  bankKey: "200"
   systemVersion: "iat-24"
   enabled:
     manager: true
@@ -78,7 +78,7 @@ item-import:
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
   importEnabled: true
-  deleteIfExists: false
+  deleteIfExists: true
   deleteSleepTimeout: 4
   localBaseDir: "${HOME}/ItemImportTemp"
   itemSourceDir: "${HOME}/ItemImportSource/prod/items"
@@ -87,6 +87,39 @@ item-import:
   includeFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
+  workflowMapping:
+    "Archetypes": "Archived"
+    "Stimulus: Archetypes": "Archived"
+    "Data Review": "DataReview"
+    "Revise Review": "DataReview"
+    "Stimulus: Revise Review": "DataReview"
+    "Field Test Pool": "FieldTest"
+    "Field Test Pool: Post QC": "FieldTest"
+    "Stimulus: Field Test Pool": "FieldTest"
+    "Stimulus: Field Test Pool: Post QC": "FieldTest"
+    "Locked Interim Pool: Post QC": "Operational"
+    "Locked Operational - NonSBAC": "Operational"
+    "Locked Operational - Non SBAC": "Operational"
+    "Locked Operational Pool": "Operational"
+    "Locked Operational Pool: Post QC": "Operational"
+    "Operational": "Operational"
+    "Stimulus: Locked Interim Pool: Post QC": "Operational"
+    "Stimulus: Locked Operational - NonSBAC": "Operational"
+    "Stimulus: Locked Operational - Non SBAC": "Operational"
+    "Stimulus: Locked Operational Pool": "Operational"
+    "Stimulus: Locked Operational Pool: Post QC": "Operational"
+    "Not Submit": "Rejected"
+    "Not Submit Status": "Rejected"
+    "Rejected": "Rejected"
+    "Rejected Status": "Rejected"
+    "Lab/Trial Ready": "Released"
+    "Lock": "Released"
+    "Released": "Released"
+    "Released Status": "Released"
+    "Stimulus: Lab/Trial Ready": "Released"
+    "Stimulus: Released": "Released"
+    "Stimulus: Released Status": "Released"
+    "Ready For Field Test": "FieldTestReady"
 
 ---
 spring:
