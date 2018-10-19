@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata>
+  <smarterAppMetadata xmlns="http://www.smarterapp.org/ns/1/assessment_item_metadata">
+    <Identifier>13310</Identifier>
+    <AssociatedStimulus>129</AssociatedStimulus>
+    <ItemAuthorIdentifier>Maite_Montoya</ItemAuthorIdentifier>
+    <ItemSpecFormat>SmarterApp</ItemSpecFormat>
+    <LastModifiedBy>Maite_Montoya</LastModifiedBy>
+    <SecurityStatus>Secure</SecurityStatus>
+    <SmarterAppItemDescriptor>CellPhones_6_Stime1_Item5</SmarterAppItemDescriptor>
+    <StimulusFormat>Standard</StimulusFormat>
+    <Subject>MATH</Subject>
+    <Version>21</Version>
+    <IntendedGrade>6</IntendedGrade>
+    <MinimumGrade>6</MinimumGrade>
+    <MaximumGrade>6</MaximumGrade>
+    <MathematicalPractice>1</MathematicalPractice>
+    <MathematicalPractice>6</MathematicalPractice>
+    <DepthOfKnowledge>2</DepthOfKnowledge>
+    <AchievementQuintile>3</AchievementQuintile>
+    <AllowCalculator>Y</AllowCalculator>
+    <InteractionType>SA</InteractionType>
+    <MaximumNumberOfPoints>2</MaximumNumberOfPoints>
+    <ScorePoints>"0, 1, 2"</ScorePoints>
+    <ScoringEngine>HandScored</ScoringEngine>
+    <PresentationFormat>Text</PresentationFormat>
+    <AdministrationDate>Field Test</AdministrationDate>
+    <BrailleType>BRF</BrailleType>
+    <PerformanceTaskComponentItem>Y</PerformanceTaskComponentItem>
+    <PtSequence>5</PtSequence>
+    <PtClassroomActivity>y</PtClassroomActivity>
+    <AccessibilityTagsASLLanguage>Y</AccessibilityTagsASLLanguage>
+    <IrtDimension>
+      <IrtStatDomain>Online</IrtStatDomain>
+      <IrtModelType>IRTGPC</IrtModelType>
+      <IrtDimensionPurpose></IrtDimensionPurpose>
+      <IrtScore>2</IrtScore>
+      <IrtWeight>1</IrtWeight>
+      <IrtParameter>
+        <Name>a</Name>
+        <Value>0.93749</Value>
+      </IrtParameter>
+      <IrtParameter>
+        <Name>b0</Name>
+        <Value>0.94075</Value>
+      </IrtParameter>
+      <IrtParameter>
+        <Name>b1</Name>
+        <Value>1.45155</Value>
+      </IrtParameter>
+    </IrtDimension>
+    <Status>Operational</Status>
+    <StandardPublication>
+      <Publication>SBAC-MA-v6</Publication>
+      <PrimaryStandard>SBAC-MA-v6:4|O|NA|A</PrimaryStandard>
+    </StandardPublication>
+    <StandardPublication>
+      <Publication>SBAC-MA-v4</Publication>
+      <PrimaryStandard>SBAC-MA-v4:4|NBT|A|NA|NA</PrimaryStandard>
+      <SecondaryStandard>SBAC-MA-v5:1|NBT|D-5|m|5.NBT.7</SecondaryStandard>
+      <SecondaryStandard>SBAC-MA-v5:1|RP|A-6|m|6.RP.A</SecondaryStandard>
+    </StandardPublication>
+    <AssociatedTutorial>67866</AssociatedTutorial>
+    <AssociatedWordlist>50075</AssociatedWordlist>
+    <Language>eng</Language>
+    <Language>spa</Language>
+  </smarterAppMetadata>
+</metadata>
