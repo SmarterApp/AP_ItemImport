@@ -2,27 +2,26 @@
 ==================================================
 Import Report Summary
 ==================================================
-
+   Environment: ${report.appProps.environment}
     Start Time: ${report.startTime?datetime}
       End Time: ${report.endTime?datetime}
 Execution Time: ${report.executionTime}
 
-==================================================
-The following events occurred while importing
-"source id","status","info message"
+The following items were imported successfully
+--------------------------------------------------
+"its id","tims id","status","item type"
 <#list report.importResults>
     <#items as result>
-        <#list result.infoMessages>
-            <#items as info>
-"${result.itemId}","info","${info}"
-            </#items>
-        </#list>
+        <#if result.status == "SUCCESS">
+"${result.itemId}","${result.importedItemId}","success","${result.itemType}"
+        </#if>
     </#items>
 </#list>
 
-==================================================
+
 The following errors were reported while importing
-"source id","status","error message"
+--------------------------------------------------
+"its id","status","error message"
 <#list report.importResults>
     <#items as result>
         <#list result.errorMessages>
@@ -33,14 +32,17 @@ The following errors were reported while importing
     </#items>
 </#list>
 
-==================================================
-The following items were imported successfully
-"source id","imported id","status","item type"
+
+Additional information
+--------------------------------------------------
+"its id","status","info message"
 <#list report.importResults>
     <#items as result>
-        <#if result.status == "SUCCESS">
-"${result.itemId}","${result.importedItemId}","success","${result.itemType}"
-        </#if>
+        <#list result.infoMessages>
+            <#items as info>
+"${result.itemId}","info","${info}"
+            </#items>
+        </#list>
     </#items>
 </#list>
 

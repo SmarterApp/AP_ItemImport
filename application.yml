@@ -75,15 +75,15 @@ logging:
           common: "info"
 
 item-import:
+  dryRun: true
+  environment: "local"
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
-  importEnabled: true
   deleteIfExists: true
-  deleteSleepTimeout: 4
   localBaseDir: "${HOME}/ItemImportTemp"
   itemSourceDir: "${HOME}/ItemImportSource/prod/items"
   stimuliSourceDir: "${HOME}/ItemImportSource/prod/stimuli"
-  includeFile: "import-ids.txt"
+  importIdFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
   workflowMapping:
@@ -129,6 +129,9 @@ spring:
 itembank:
   group: "iat-development"
 
+item-import:
+  environment: "development"
+
 ---
 spring:
   profiles: uat
@@ -137,3 +140,6 @@ spring:
 
 itembank:
   group: "iat-uat"
+
+item-import:
+  environment: "uat"
