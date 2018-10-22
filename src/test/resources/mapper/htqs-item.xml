@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <itemrelease version="2.0">
-    <item format="htq" id="97933" version="7" bankkey="200">
+    <item format="htq" id="62381" version="16" bankkey="200">
         <attriblist>
             <attrib attid="itm_item_id">
                 <name>Item: ITS ID</name>
-                <val>97933</val>
+                <val>62381</val>
                 <desc></desc>
             </attrib>
             <attrib attid="itm_item_subject">
@@ -14,17 +14,17 @@
             </attrib>
             <attrib attid="itm_item_desc">
                 <name>Item: Item Description</name>
-                <val>97010</val>
+                <val>84306</val>
                 <desc></desc>
             </attrib>
             <attrib attid="itm_FTUse">
                 <name>Fieldtest Use</name>
-                <val>ELA OP G4 2015 ENG (1194); ELA Oregon OP G4 2015 ENG (660); ELA OP G4 2015 ENG COMBINED (1195); ELA Oregon OP G4 2015 ENG COMBINED (661);</val>
+                <val></val>
                 <desc></desc>
             </attrib>
             <attrib attid="itm_OPUse">
                 <name>Operational Use</name>
-                <val>IAB-G4E-LangVocab-2018 ENG (11); IAB-G4E-LangVocab-2018 BRL (11); IAB-G4E-LangVocab-2018 ENG COMBINED (11); IAB-G4E-LangVocab-2018 BRL COMBINED (11);</val>
+                <val>CAT::ELAG11::ON-D::SP14 (3122); FAKE ELA FORM (8575); CAT::ELAG11::CA-ON::D::SP14 (3122); CAT::ELAG11::CA-ON::D (3122); ELA OP G11 2015 ENG (1368); ELA Oregon OP G11 2015 ENG (1368); ELA OP G11 2015 ENG COMBINED (1368); ELA MAAC G9 2015 ENG (1368); ELA MAAC G10 2015 ENG (1368); ELA MAAC G9 2015 ENG COMBINED (1368); ELA MAAC G10 2015 ENG COMBINED (1368); ELA Oregon OP G11 2015 ENG COMBINED (1368); ELA OP G11 2016 ENG (1360); ELA OP G11 2016 ENG COMBINED (1360); ELA Meta-Metric OP G11 2016 ENG (1360); ELA Meta-Metric OP G11 2016 ENG COMBINED (1360); ELA MAAC G9 2016 ENG (1322); ELA MAAC G10 2016 ENG (1322); ELA WVA G12 Retake 2016 ENG (1360); ELA MAAC G9 2016 ENG COMBINED (1322); ELA MAAC G10 2016 ENG COMBINED (1322); ELA WVA G12 Retake 2016 ENG COMBINED (1360); IAB-G11E-Revision-2017 ENG (8); IAB-G11E-Revision-2017 BRL (8); IAB-G11E-Revision-2017 ENG COMBINED (8); IAB-G11E-Revision-2017 BRL COMBINED (8); IAB-G11E-Revision-2018 ENG (8); IAB-G11E-Revision-2018 BRL (8); IAB-G11E-Revision-2018 ENG COMBINED (8); IAB-G11E-Revision-2018 BRL COMBINED (8);</val>
                 <desc></desc>
             </attrib>
             <attrib attid="itm_att_Answer Key">
@@ -34,7 +34,7 @@
             </attrib>
             <attrib attid="itm_att_Grade">
                 <name>Item: Grade</name>
-                <val>4</val>
+                <val>11</val>
                 <desc></desc>
             </attrib>
             <attrib attid="itm_att_Item Format">
@@ -74,23 +74,25 @@
             </attrib>
         </attriblist>
         <tutorial id="72860" bankkey="200" />
-        <resourceslist />
+        <resourceslist>
+            <resource type="wordList" id="69989" index="1" bankkey="200" />
+        </resourceslist>
         <statistic />
-        <MachineRubric filename="Item_97933_v7.qrx" />
+        <MachineRubric filename="Item_62381_v16.qrx" />
         <content language="ENU" version="2.0">
             <rationaleoptlist />
-            <stem><![CDATA[<p style="">A student is writing a story for his teacher about going on a hike. <span id="item_97933_TAG_5_BEGIN">Read</span> the draft of the story and complete the task that follows.</p><p style="">&#xA0;</p><p style="">Tony and Mary had reached the top of the mountain. The <span id="item_97933_TAG_13_BEGIN">wind</span> started to blow. They felt it blow through their clothing and watched as it <span class="interaction selectable" data-its-identifier="1" data-its-group="1"><span id="item_97933_TAG_1_BEGIN"><span style="text-decoration:underline; ">went</span></span></span><span id="item_97933_TAG_6_BEGIN">/</span><span class="interaction selectable" data-its-identifier="2" data-its-group="1"><span id="item_97933_TAG_2_BEGIN"><span style="text-decoration:underline; ">tore</span></span></span> through the <span id="item_97933_TAG_8" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>brush<span class="its-tag" data-tag-ref="item_97933_TAG_8" data-tag-boundary="end"></span>. The <span id="item_97933_TAG_14_BEGIN">wind</span> kept blowing, <span class="interaction selectable" data-its-identifier="3" data-its-group="1"><span id="item_97933_TAG_3_BEGIN"><span style="text-decoration:underline; ">moving</span></span></span><span id="item_97933_TAG_7_BEGIN">/</span><span class="interaction selectable" data-its-identifier="4" data-its-group="1"><span id="item_97933_TAG_4_BEGIN"><span style="text-decoration:underline; ">whirling</span></span></span> the leaves and dead brush into the air. It was clouding up, and they <span style="">couldn’t</span> see as far as <span id="item_97933_TAG_9" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>usual<span class="its-tag" data-tag-ref="item_97933_TAG_9" data-tag-boundary="end"></span>. Then the sky started to change. It began to look <span id="item_97933_TAG_10" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>heavy<span class="its-tag" data-tag-ref="item_97933_TAG_10" data-tag-boundary="end"></span> and angry. They <span id="item_97933_TAG_11" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>realized<span class="its-tag" data-tag-ref="item_97933_TAG_11" data-tag-boundary="end"></span> they should start down right away. They hoped they would get down without any <span id="item_97933_TAG_12" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>problem<span class="its-tag" data-tag-ref="item_97933_TAG_12" data-tag-boundary="end"></span>.</p><p style=""><br />For each <span id="item_97933_TAG_15_BEGIN"><span style="text-decoration:underline; ">underlined</span></span> pair of words, click on the word that is the <span id="item_97933_TAG_16_BEGIN"><span style="font-weight:bold; ">most</span></span> exact.</p>]]></stem>
+            <stem><![CDATA[<p style="">A student is writing an essay for his media class that addresses the question: Does the media report fairly or does it sometimes cross the line between reporting news and creating news? <span id="item_62381_TAG_7_BEGIN">Read</span> the paragraph from his essay. Then complete the task that follows.</p><p style=""><br />Does the media in today's society report fairly or does it cross a line between reporting the news and creating the news? We live in a world where news and entertainment are often the same thing, and in order to stay relevant and at the top of the <span id="item_62381_TAG_12" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>ratings scale<span class="its-tag" data-tag-ref="item_62381_TAG_12" data-tag-boundary="end"></span>, media outlets often find it necessary to <span id="item_62381_TAG_8_BEGIN">“create”</span> news that will draw the audience in, and, whether completely true or not, will make people talk. While most news stories are cemented in facts <span id="item_62381_TAG_9_BEGIN">and/or</span> actual occurrences, one only has to observe different news stations to see how very differently those stories are presented. A recent survey showed that <span id="item_62381_TAG_10_BEGIN">70%</span> of Americans do not trust the media and believe that, ultimately, most media outlets have an agenda: to be the first to report a story.</p><p style=""><br />The paragraph needs an appropriate conclusion. Click on the <span id="item_62381_TAG_11_BEGIN"><span style="font-weight:bold; ">best</span></span><span style="font-weight:bold; "> </span>concluding sentence from the following paragraph.</p><p style=""><br /><span class="interaction selectable" data-its-identifier="1" data-its-group="1"><span id="item_62381_TAG_1_BEGIN">All of this makes the average citizen question how he or she can <span id="item_62381_TAG_13" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>decipher<span class="its-tag" data-tag-ref="item_62381_TAG_13" data-tag-boundary="end"></span> what is fact and what is <span id="item_62381_TAG_14" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>embellished<span class="its-tag" data-tag-ref="item_62381_TAG_14" data-tag-boundary="end"></span> in the name of creating a <span id="item_62381_TAG_15" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>sensational<span class="its-tag" data-tag-ref="item_62381_TAG_15" data-tag-boundary="end"></span> story.</span></span> <span class="interaction selectable" data-its-identifier="2" data-its-group="1"><span id="item_62381_TAG_2_BEGIN">There are many contributing factors to what makes the public distrust media, but perhaps the most crucial is the type of news currently being reported.</span></span> <span class="interaction selectable" data-its-identifier="3" data-its-group="1"><span id="item_62381_TAG_3_BEGIN">Trust seems to be at the lowest point during political elections and at its highest during a national crisis.</span></span> <span class="interaction selectable" data-its-identifier="4" data-its-group="1"><span id="item_62381_TAG_4_BEGIN">Perhaps the lack of trust in media is a result of the constant <span id="item_62381_TAG_16" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>barrage<span class="its-tag" data-tag-ref="item_62381_TAG_16" data-tag-boundary="end"></span> of news we receive each day; there is no longer simply the morning and evening news, but there is constant access to news via television, computers, and phones.</span></span> <span class="interaction selectable" data-its-identifier="5" data-its-group="1"><span id="item_62381_TAG_5_BEGIN">Even when watching a current news story, a person is viewing a ticker at the bottom of the screen which provides even more information regarding various events.</span></span> <span class="interaction selectable" data-its-identifier="6" data-its-group="1"><span id="item_62381_TAG_6_BEGIN">All of this can be overwhelming and can lead to criticism since there is so much news available in so many different mediums.</span></span></p>]]></stem>
             <rubriclist>
                 <rubric scorepoint="">
                     <name>
                         Rubric </name>
-                    <val><![CDATA[<p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="">&lt;show or explain one particular correct answer&gt;</p></li></ul><ul style="padding-left:1.5000em; "><li><p style="">&lt;if applicable, list all the correct answers or give a rule for all the correct answers&gt;</p></li></ul><ul style="padding-left:1.5000em; "><li><p style="">&lt;explain what is required for the 1 st point here&gt; (1 point) </p></li></ul><ul style="padding-left:1.5000em; "><li><p style="">&lt;explain what is required for the 2 ndpoint here&gt; (2 point) </p><p style="">AND</p></li><li><p style="">&lt;explain what is required for the 3 rdpoint here&gt; (3 point) </p><p style="">AND</p></li><li><p style="">&lt;explain what is required for the 4 thpoint here&gt; (4 point). </p></li></ul>]]></val>
+                    <val><![CDATA[<p style="">The student receives full credit by selecting:</p><ul style="padding-left:1.5000em; "><li><p style="">“All of this makes the average citizen question how he or she can decipher what is fact and what is embellished in the name of creating a sensational story.”</p></li></ul>]]></val>
                 </rubric>
                 <samplelist maxval="" minval="" />
             </rubriclist>
             <attachmentlist>
-                <attachment id="braillefile1" type="BRF" subtype="contracted" file="item_97933_enu_contracted.brf" />
-                <attachment id="braillefile2" type="BRF" subtype="uncontracted" file="item_97933_enu_uncontracted.brf" />
+                <attachment id="braillefile1" type="BRF" subtype="contracted" file="item_62381_enu_contracted.brf" />
+                <attachment id="braillefile2" type="BRF" subtype="uncontracted" file="item_62381_enu_uncontracted.brf" />
             </attachmentlist>
             <constraints>
                 <cardinality target="1" min="0" max="0" />
@@ -99,7 +101,7 @@
             <apipAccessibility>
                 <accessibilityInfo>
                     <accessElement identifier="ae1">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_5_BEGIN" type="Text">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_7_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
@@ -108,135 +110,147 @@
                                 <textToSpeechPronunciationAlternate>Read</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>Read</brailleTextString>
-                            </brailleText>
-                        </relatedElementInfo>
-                    </accessElement>
-                    <accessElement identifier="ae2">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_13_BEGIN" type="Text">
-                            <objectLink />
-                        </contentLinkInfo>
-                        <relatedElementInfo>
-                            <readAloud>
-                                <textToSpeechPronunciation>windt</textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate>windt</textToSpeechPronunciationAlternate>
-                            </readAloud>
-                            <brailleText>
-                                <brailleTextString>wind</brailleTextString>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
                     <accessElement identifier="ae3">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_1_BEGIN" type="Text">
-                            <objectLink />
-                        </contentLinkInfo>
-                        <relatedElementInfo>
-                            <readAloud />
-                        </relatedElementInfo>
-                    </accessElement>
-                    <accessElement identifier="ae4">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_6_BEGIN" type="Text">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_8_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
                             <readAloud>
-                                <textToSpeechPronunciation></textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate></textToSpeechPronunciationAlternate>
+                                <textToSpeechPronunciation>, create,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>“create”</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>/</brailleTextString>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae4">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_9_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>and or</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>and/or</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
                     <accessElement identifier="ae5">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_2_BEGIN" type="Text">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_10_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
                             <readAloud>
-                                <textToSpeechPronunciation>, slash tore,</textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate>, slash tore,</textToSpeechPronunciationAlternate>
+                                <textToSpeechPronunciation>70 percent</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>70%</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>tore</brailleTextString>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae6">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_11_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>, best,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>best</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
                     <accessElement identifier="ae7">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_14_BEGIN" type="Text">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_1_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
                             <readAloud>
-                                <textToSpeechPronunciation>windt</textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate>windt</textToSpeechPronunciationAlternate>
+                                <textToSpeechPronunciation>All of this makes the average citizen question how he or she can decipher what is fact and what is embellished in the name of creating a sensational story.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>All of this makes the average citizen question how he or she can decipher what is fact and what is embellished in the name of creating a sensational story.</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>wind</brailleTextString>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
-                    <accessElement identifier="ae8">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_3_BEGIN" type="Text">
-                            <objectLink />
-                        </contentLinkInfo>
-                        <relatedElementInfo>
-                            <readAloud />
-                        </relatedElementInfo>
-                    </accessElement>
-                    <accessElement identifier="ae9">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_7_BEGIN" type="Text">
+                    <accessElement identifier="ae11">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_2_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
                             <readAloud>
-                                <textToSpeechPronunciation></textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate></textToSpeechPronunciationAlternate>
+                                <textToSpeechPronunciation>There are many contributing factors to what makes the public distrust media, but perhaps the most crucial is the type of news currently being reported.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>There are many contributing factors to what makes the public distrust media, but perhaps the most crucial is the type of news currently being reported.</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>/</brailleTextString>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
-                    <accessElement identifier="ae10">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_4_BEGIN" type="Text">
+                    <accessElement identifier="ae12">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_3_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
                             <readAloud>
-                                <textToSpeechPronunciation>, slash whirling,</textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate>, slash whirling,</textToSpeechPronunciationAlternate>
+                                <textToSpeechPronunciation>Trust seems to be at the lowest point during political elections and at its highest during a national crisis.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Trust seems to be at the lowest point during political elections and at its highest during a national crisis.</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>whirling</brailleTextString>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae13">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_4_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Perhaps the lack of trust in media is a result of the constant barrage of news we receive each day; there is no longer simply the morning and evening news, but there is constant access to news via television, computers, and phones.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Perhaps the lack of trust in media is a result of the constant barrage of news we receive each day; there is no longer simply the morning and evening news, but there is constant access to news via television, computers, and phones.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
                     <accessElement identifier="ae15">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_15_BEGIN" type="Text">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_5_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
                             <readAloud>
-                                <textToSpeechPronunciation>underlined,</textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate>underlined,</textToSpeechPronunciationAlternate>
+                                <textToSpeechPronunciation>Even when watching a current news story, a person is viewing a ticker at the bottom of the screen which provides even more information regarding various events.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Even when watching a current news story, a person is viewing a ticker at the bottom of the screen which provides even more information regarding various events.</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>underlined</brailleTextString>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
                     <accessElement identifier="ae16">
-                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_16_BEGIN" type="Text">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_6_BEGIN" type="Text">
                             <objectLink />
                         </contentLinkInfo>
                         <relatedElementInfo>
                             <readAloud>
-                                <textToSpeechPronunciation>most,</textToSpeechPronunciation>
-                                <textToSpeechPronunciationAlternate>most,</textToSpeechPronunciationAlternate>
+                                <textToSpeechPronunciation>All of this can be overwhelming and can lead to criticism since there is so much news available in so many different mediums.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>All of this can be overwhelming and can lead to criticism since there is so much news available in so many different mediums.</textToSpeechPronunciationAlternate>
                             </readAloud>
                             <brailleText>
-                                <brailleTextString>most</brailleTextString>
+                                <brailleTextString></brailleTextString>
                             </brailleText>
                         </relatedElementInfo>
                     </accessElement>
