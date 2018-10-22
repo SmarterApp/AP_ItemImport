@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemrelease version="2.0">
+    <item format="htq" id="97933" version="7" bankkey="200">
+        <attriblist>
+            <attrib attid="itm_item_id">
+                <name>Item: ITS ID</name>
+                <val>97933</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_subject">
+                <name>Item: Subject</name>
+                <val>ELA</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_desc">
+                <name>Item: Item Description</name>
+                <val>97010</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_FTUse">
+                <name>Fieldtest Use</name>
+                <val>ELA OP G4 2015 ENG (1194); ELA Oregon OP G4 2015 ENG (660); ELA OP G4 2015 ENG COMBINED (1195); ELA Oregon OP G4 2015 ENG COMBINED (661);</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_OPUse">
+                <name>Operational Use</name>
+                <val>IAB-G4E-LangVocab-2018 ENG (11); IAB-G4E-LangVocab-2018 BRL (11); IAB-G4E-LangVocab-2018 ENG COMBINED (11); IAB-G4E-LangVocab-2018 BRL COMBINED (11);</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key">
+                <name>Item: Answer Key</name>
+                <val>HTQ</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Grade">
+                <name>Item: Grade</name>
+                <val>4</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Format">
+                <name>Item: Item Format</name>
+                <val>HTQ</val>
+                <desc>Hottext with QTI rubric</desc>
+            </attrib>
+            <attrib attid="itm_att_Page Layout">
+                <name>Item: Page Layout</name>
+                <val>8</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Response Type">
+                <name>Item: Response Type</name>
+                <val>HotText</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Point">
+                <name>Item: Item Point</name>
+                <val>1 pt.</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key (Part II)">
+                <name>Item: Answer Key (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices">
+                <name>Item:Max Choices</name>
+                <val>NA</val>
+                <desc>NA</desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices (Part II)">
+                <name>Item:Max Choices (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+        </attriblist>
+        <tutorial id="72860" bankkey="200" />
+        <resourceslist />
+        <statistic />
+        <MachineRubric filename="Item_97933_v7.qrx" />
+        <content language="ENU" version="2.0">
+            <rationaleoptlist />
+            <stem><![CDATA[<p style="">A student is writing a story for his teacher about going on a hike. <span id="item_97933_TAG_5_BEGIN">Read</span> the draft of the story and complete the task that follows.</p><p style="">&#xA0;</p><p style="">Tony and Mary had reached the top of the mountain. The <span id="item_97933_TAG_13_BEGIN">wind</span> started to blow. They felt it blow through their clothing and watched as it <span class="interaction selectable" data-its-identifier="1" data-its-group="1"><span id="item_97933_TAG_1_BEGIN"><span style="text-decoration:underline; ">went</span></span></span><span id="item_97933_TAG_6_BEGIN">/</span><span class="interaction selectable" data-its-identifier="2" data-its-group="1"><span id="item_97933_TAG_2_BEGIN"><span style="text-decoration:underline; ">tore</span></span></span> through the <span id="item_97933_TAG_8" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>brush<span class="its-tag" data-tag-ref="item_97933_TAG_8" data-tag-boundary="end"></span>. The <span id="item_97933_TAG_14_BEGIN">wind</span> kept blowing, <span class="interaction selectable" data-its-identifier="3" data-its-group="1"><span id="item_97933_TAG_3_BEGIN"><span style="text-decoration:underline; ">moving</span></span></span><span id="item_97933_TAG_7_BEGIN">/</span><span class="interaction selectable" data-its-identifier="4" data-its-group="1"><span id="item_97933_TAG_4_BEGIN"><span style="text-decoration:underline; ">whirling</span></span></span> the leaves and dead brush into the air. It was clouding up, and they <span style="">couldn’t</span> see as far as <span id="item_97933_TAG_9" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>usual<span class="its-tag" data-tag-ref="item_97933_TAG_9" data-tag-boundary="end"></span>. Then the sky started to change. It began to look <span id="item_97933_TAG_10" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>heavy<span class="its-tag" data-tag-ref="item_97933_TAG_10" data-tag-boundary="end"></span> and angry. They <span id="item_97933_TAG_11" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>realized<span class="its-tag" data-tag-ref="item_97933_TAG_11" data-tag-boundary="end"></span> they should start down right away. They hoped they would get down without any <span id="item_97933_TAG_12" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>problem<span class="its-tag" data-tag-ref="item_97933_TAG_12" data-tag-boundary="end"></span>.</p><p style=""><br />For each <span id="item_97933_TAG_15_BEGIN"><span style="text-decoration:underline; ">underlined</span></span> pair of words, click on the word that is the <span id="item_97933_TAG_16_BEGIN"><span style="font-weight:bold; ">most</span></span> exact.</p>]]></stem>
+            <rubriclist>
+                <rubric scorepoint="">
+                    <name>
+                        Rubric </name>
+                    <val><![CDATA[<p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="">&lt;show or explain one particular correct answer&gt;</p></li></ul><ul style="padding-left:1.5000em; "><li><p style="">&lt;if applicable, list all the correct answers or give a rule for all the correct answers&gt;</p></li></ul><ul style="padding-left:1.5000em; "><li><p style="">&lt;explain what is required for the 1 st point here&gt; (1 point) </p></li></ul><ul style="padding-left:1.5000em; "><li><p style="">&lt;explain what is required for the 2 ndpoint here&gt; (2 point) </p><p style="">AND</p></li><li><p style="">&lt;explain what is required for the 3 rdpoint here&gt; (3 point) </p><p style="">AND</p></li><li><p style="">&lt;explain what is required for the 4 thpoint here&gt; (4 point). </p></li></ul>]]></val>
+                </rubric>
+                <samplelist maxval="" minval="" />
+            </rubriclist>
+            <attachmentlist>
+                <attachment id="braillefile1" type="BRF" subtype="contracted" file="item_97933_enu_contracted.brf" />
+                <attachment id="braillefile2" type="BRF" subtype="uncontracted" file="item_97933_enu_uncontracted.brf" />
+            </attachmentlist>
+            <constraints>
+                <cardinality target="1" min="0" max="0" />
+                <cardinality target="" min="1" max="0" />
+            </constraints>
+            <apipAccessibility>
+                <accessibilityInfo>
+                    <accessElement identifier="ae1">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_5_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Reed</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Read</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>Read</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae2">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_13_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>windt</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>windt</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>wind</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae3">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_1_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud />
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae4">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_6_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation></textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate></textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>/</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae5">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_2_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>, slash tore,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>, slash tore,</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>tore</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae7">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_14_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>windt</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>windt</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>wind</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae8">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_3_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud />
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae9">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_7_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation></textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate></textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>/</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae10">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_4_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>, slash whirling,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>, slash whirling,</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>whirling</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae15">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_15_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>underlined,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>underlined,</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>underlined</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae16">
+                        <contentLinkInfo itsLinkIdentifierRef="item_97933_TAG_16_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>most,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>most,</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>most</brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                </accessibilityInfo>
+            </apipAccessibility>
+        </content>
+    </item>
+</itemrelease>

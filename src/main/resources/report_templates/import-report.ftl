@@ -2,6 +2,7 @@
 ==================================================
 Import Report Summary
 ==================================================
+    Is Dry Run: ${report.appProps.dryRun?c}
    Environment: ${report.appProps.environment}
     Start Time: ${report.startTime?datetime}
       End Time: ${report.endTime?datetime}
