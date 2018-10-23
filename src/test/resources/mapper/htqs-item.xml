@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemrelease version="2.0">
+    <item format="htq" id="62381" version="16" bankkey="200">
+        <attriblist>
+            <attrib attid="itm_item_id">
+                <name>Item: ITS ID</name>
+                <val>62381</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_subject">
+                <name>Item: Subject</name>
+                <val>ELA</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_desc">
+                <name>Item: Item Description</name>
+                <val>84306</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_FTUse">
+                <name>Fieldtest Use</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_OPUse">
+                <name>Operational Use</name>
+                <val>CAT::ELAG11::ON-D::SP14 (3122); FAKE ELA FORM (8575); CAT::ELAG11::CA-ON::D::SP14 (3122); CAT::ELAG11::CA-ON::D (3122); ELA OP G11 2015 ENG (1368); ELA Oregon OP G11 2015 ENG (1368); ELA OP G11 2015 ENG COMBINED (1368); ELA MAAC G9 2015 ENG (1368); ELA MAAC G10 2015 ENG (1368); ELA MAAC G9 2015 ENG COMBINED (1368); ELA MAAC G10 2015 ENG COMBINED (1368); ELA Oregon OP G11 2015 ENG COMBINED (1368); ELA OP G11 2016 ENG (1360); ELA OP G11 2016 ENG COMBINED (1360); ELA Meta-Metric OP G11 2016 ENG (1360); ELA Meta-Metric OP G11 2016 ENG COMBINED (1360); ELA MAAC G9 2016 ENG (1322); ELA MAAC G10 2016 ENG (1322); ELA WVA G12 Retake 2016 ENG (1360); ELA MAAC G9 2016 ENG COMBINED (1322); ELA MAAC G10 2016 ENG COMBINED (1322); ELA WVA G12 Retake 2016 ENG COMBINED (1360); IAB-G11E-Revision-2017 ENG (8); IAB-G11E-Revision-2017 BRL (8); IAB-G11E-Revision-2017 ENG COMBINED (8); IAB-G11E-Revision-2017 BRL COMBINED (8); IAB-G11E-Revision-2018 ENG (8); IAB-G11E-Revision-2018 BRL (8); IAB-G11E-Revision-2018 ENG COMBINED (8); IAB-G11E-Revision-2018 BRL COMBINED (8);</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key">
+                <name>Item: Answer Key</name>
+                <val>HTQ</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Grade">
+                <name>Item: Grade</name>
+                <val>11</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Format">
+                <name>Item: Item Format</name>
+                <val>HTQ</val>
+                <desc>Hottext with QTI rubric</desc>
+            </attrib>
+            <attrib attid="itm_att_Page Layout">
+                <name>Item: Page Layout</name>
+                <val>8</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Response Type">
+                <name>Item: Response Type</name>
+                <val>HotText</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Point">
+                <name>Item: Item Point</name>
+                <val>1 pt.</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key (Part II)">
+                <name>Item: Answer Key (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices">
+                <name>Item:Max Choices</name>
+                <val>NA</val>
+                <desc>NA</desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices (Part II)">
+                <name>Item:Max Choices (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+        </attriblist>
+        <tutorial id="72860" bankkey="200" />
+        <resourceslist>
+            <resource type="wordList" id="69989" index="1" bankkey="200" />
+        </resourceslist>
+        <statistic />
+        <MachineRubric filename="Item_62381_v16.qrx" />
+        <content language="ENU" version="2.0">
+            <rationaleoptlist />
+            <stem><![CDATA[<p style="">A student is writing an essay for his media class that addresses the question: Does the media report fairly or does it sometimes cross the line between reporting news and creating news? <span id="item_62381_TAG_7_BEGIN">Read</span> the paragraph from his essay. Then complete the task that follows.</p><p style=""><br />Does the media in today's society report fairly or does it cross a line between reporting the news and creating the news? We live in a world where news and entertainment are often the same thing, and in order to stay relevant and at the top of the <span id="item_62381_TAG_12" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>ratings scale<span class="its-tag" data-tag-ref="item_62381_TAG_12" data-tag-boundary="end"></span>, media outlets often find it necessary to <span id="item_62381_TAG_8_BEGIN">“create”</span> news that will draw the audience in, and, whether completely true or not, will make people talk. While most news stories are cemented in facts <span id="item_62381_TAG_9_BEGIN">and/or</span> actual occurrences, one only has to observe different news stations to see how very differently those stories are presented. A recent survey showed that <span id="item_62381_TAG_10_BEGIN">70%</span> of Americans do not trust the media and believe that, ultimately, most media outlets have an agenda: to be the first to report a story.</p><p style=""><br />The paragraph needs an appropriate conclusion. Click on the <span id="item_62381_TAG_11_BEGIN"><span style="font-weight:bold; ">best</span></span><span style="font-weight:bold; "> </span>concluding sentence from the following paragraph.</p><p style=""><br /><span class="interaction selectable" data-its-identifier="1" data-its-group="1"><span id="item_62381_TAG_1_BEGIN">All of this makes the average citizen question how he or she can <span id="item_62381_TAG_13" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>decipher<span class="its-tag" data-tag-ref="item_62381_TAG_13" data-tag-boundary="end"></span> what is fact and what is <span id="item_62381_TAG_14" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>embellished<span class="its-tag" data-tag-ref="item_62381_TAG_14" data-tag-boundary="end"></span> in the name of creating a <span id="item_62381_TAG_15" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>sensational<span class="its-tag" data-tag-ref="item_62381_TAG_15" data-tag-boundary="end"></span> story.</span></span> <span class="interaction selectable" data-its-identifier="2" data-its-group="1"><span id="item_62381_TAG_2_BEGIN">There are many contributing factors to what makes the public distrust media, but perhaps the most crucial is the type of news currently being reported.</span></span> <span class="interaction selectable" data-its-identifier="3" data-its-group="1"><span id="item_62381_TAG_3_BEGIN">Trust seems to be at the lowest point during political elections and at its highest during a national crisis.</span></span> <span class="interaction selectable" data-its-identifier="4" data-its-group="1"><span id="item_62381_TAG_4_BEGIN">Perhaps the lack of trust in media is a result of the constant <span id="item_62381_TAG_16" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>barrage<span class="its-tag" data-tag-ref="item_62381_TAG_16" data-tag-boundary="end"></span> of news we receive each day; there is no longer simply the morning and evening news, but there is constant access to news via television, computers, and phones.</span></span> <span class="interaction selectable" data-its-identifier="5" data-its-group="1"><span id="item_62381_TAG_5_BEGIN">Even when watching a current news story, a person is viewing a ticker at the bottom of the screen which provides even more information regarding various events.</span></span> <span class="interaction selectable" data-its-identifier="6" data-its-group="1"><span id="item_62381_TAG_6_BEGIN">All of this can be overwhelming and can lead to criticism since there is so much news available in so many different mediums.</span></span></p>]]></stem>
+            <rubriclist>
+                <rubric scorepoint="">
+                    <name>
+                        Rubric </name>
+                    <val><![CDATA[<p style="">The student receives full credit by selecting:</p><ul style="padding-left:1.5000em; "><li><p style="">“All of this makes the average citizen question how he or she can decipher what is fact and what is embellished in the name of creating a sensational story.”</p></li></ul>]]></val>
+                </rubric>
+                <samplelist maxval="" minval="" />
+            </rubriclist>
+            <attachmentlist>
+                <attachment id="braillefile1" type="BRF" subtype="contracted" file="item_62381_enu_contracted.brf" />
+                <attachment id="braillefile2" type="BRF" subtype="uncontracted" file="item_62381_enu_uncontracted.brf" />
+            </attachmentlist>
+            <constraints>
+                <cardinality target="1" min="0" max="0" />
+                <cardinality target="" min="1" max="0" />
+            </constraints>
+            <apipAccessibility>
+                <accessibilityInfo>
+                    <accessElement identifier="ae1">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_7_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Reed</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Read</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae3">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_8_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>, create,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>“create”</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae4">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_9_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>and or</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>and/or</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae5">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_10_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>70 percent</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>70%</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae6">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_11_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>, best,</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>best</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae7">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_1_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>All of this makes the average citizen question how he or she can decipher what is fact and what is embellished in the name of creating a sensational story.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>All of this makes the average citizen question how he or she can decipher what is fact and what is embellished in the name of creating a sensational story.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae11">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_2_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>There are many contributing factors to what makes the public distrust media, but perhaps the most crucial is the type of news currently being reported.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>There are many contributing factors to what makes the public distrust media, but perhaps the most crucial is the type of news currently being reported.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae12">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_3_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Trust seems to be at the lowest point during political elections and at its highest during a national crisis.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Trust seems to be at the lowest point during political elections and at its highest during a national crisis.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae13">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_4_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Perhaps the lack of trust in media is a result of the constant barrage of news we receive each day; there is no longer simply the morning and evening news, but there is constant access to news via television, computers, and phones.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Perhaps the lack of trust in media is a result of the constant barrage of news we receive each day; there is no longer simply the morning and evening news, but there is constant access to news via television, computers, and phones.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae15">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_5_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Even when watching a current news story, a person is viewing a ticker at the bottom of the screen which provides even more information regarding various events.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Even when watching a current news story, a person is viewing a ticker at the bottom of the screen which provides even more information regarding various events.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae16">
+                        <contentLinkInfo itsLinkIdentifierRef="item_62381_TAG_6_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>All of this can be overwhelming and can lead to criticism since there is so much news available in so many different mediums.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>All of this can be overwhelming and can lead to criticism since there is so much news available in so many different mediums.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                </accessibilityInfo>
+            </apipAccessibility>
+        </content>
+    </item>
+</itemrelease>
