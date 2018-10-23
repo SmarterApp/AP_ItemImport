@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemrelease version="2.0">
+    <item format="ti" id="19678" version="30" bankkey="200">
+        <associatedpassage>390</associatedpassage>
+        <attriblist>
+            <attrib attid="itm_item_id">
+                <name>Item: ITS ID</name>
+                <val>19678</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_subject">
+                <name>Item: Subject</name>
+                <val>MATH</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_desc">
+                <name>Item: Item Description</name>
+                <val>Turtle Habitat.5.Stim2A.Item3</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_FTUse">
+                <name>Fieldtest Use</name>
+                <val>Platform::MG5::12.3 (3); SBAC-FT-Perf-5-Math-TurtleHabitat-1 (3); SBAC-FT-Perf-5-Math-TurtleHabitat-1-Braille (3); SBAC-FT-Perf-5-Math-TurtleHabitat-1-ESN (3); SBAC-FT-Perf-5-Math-TurtleHabitat-1-SS (3); SBAC-FT-Perf-4-Math-TurtleHabitat-1-SS-UP (3); SBAC-FT-Perf-6-Math-TurtleHabitat-1-SS-DWN (3); SBAC-FT-Perf-5-Math-TurtleHabitat-1-SS-Braille (3); SBAC-FT-Perf-5-Math-TurtleHabitat-1-SS-ESN (3);</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_OPUse">
+                <name>Operational Use</name>
+                <val>Math ICA Perf G5 TurtleHabitat 2015 ENG (3); Math ICA Perf G5 TurtleHabitat 2015 BRL (3); Math ICA Perf G5 TurtleHabitat 2015 SPA (3); Math OP Perf G5 Name 2015 ENG (3); Math OP Perf G5 Name 2015 BRL (3); Math OP Perf G5 Name 2015 SPA (3); Math ICA Perf G5 TurtleHabitat COMBINED 2015 ENG (3); Math ICA Perf G5 TurtleHabitat COMBINED 2015 BRL (3); Math ICA Perf G5 TurtleHabitat COMBINED 2015 SPA (3); IAB-G5M-PT-TurtleHabitat-2015 ENG (3); IAB-G5M-PT-TurtleHabitat-2015 BRL (3); IAB-G5M-PT-TurtleHabitat-2015 SPA (3); IAB-G5M-PT-TurtleHabitat-2015 ENG-COMBINED (3); IAB-G5M-PT-TurtleHabitat-2015 BRL-COMBINED (3); IAB-G5M-PT-TurtleHabitat-2015 SPA-COMBINED (3); Math ICA Perf G5 TurtleHabitat 2017 ENG (3); Math ICA Perf G5 TurtleHabitat 2017 BRL (3); Math ICA Perf G5 TurtleHabitat 2017 SPA (3); IAB-G5M-PT-2017 ENG (3); IAB-G5M-PT-2017 BRL (3); IAB-G5M-PT-2017 SPA (3); Math ICA Perf G5 TurtleHabitat 2017 ENG COMBINED (3); Math ICA Perf G5 TurtleHabitat 2017 BRL COMBINED (3); Math ICA Perf G5 TurtleHabitat 2017 SPA COMBINED (3); IAB-G5M-PT-2017 ENG-COMBINED (3); IAB-G5M-PT-2017 BRL-COMBINED (3); IAB-G5M-PT-2017 SPA-COMBINED (3); Math ICA Perf G5 TurtleHabitat 2018 ENG (3); Math ICA Perf G5 TurtleHabitat 2018 BRL (3); Math ICA Perf G5 TurtleHabitat 2018 SPA (3); IAB-G5M-PT-2018 ENG (3); IAB-G5M-PT-2018 BRL (3); IAB-G5M-PT-2018 SPA (3); Math ICA Perf G5 TurtleHabitat 2018 ENG COMBINED (3); Math ICA Perf G5 TurtleHabitat 2018 BRL COMBINED (3); Math ICA Perf G5 TurtleHabitat 2018 SPA COMBINED (3); IAB-G5M-PT-2018 ENG COMBINED (3); IAB-G5M-PT-2018 BRL COMBINED (3); IAB-G5M-PT-2018 SPA COMBINED (3);</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key">
+                <name>Item: Answer Key</name>
+                <val>TI</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Grade">
+                <name>Item: Grade</name>
+                <val>5</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Format">
+                <name>Item: Item Format</name>
+                <val>TI</val>
+                <desc>Table Item</desc>
+            </attrib>
+            <attrib attid="itm_att_Page Layout">
+                <name>Item: Page Layout</name>
+                <val>21</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Response Type">
+                <name>Item: Response Type</name>
+                <val>TableInputExt</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Point">
+                <name>Item: Item Point</name>
+                <val>2 pts.</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="stm_pass_id">
+                <name>Stim: ITS ID</name>
+                <val>390</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key (Part II)">
+                <name>Item: Answer Key (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices">
+                <name>Item:Max Choices</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices (Part II)">
+                <name>Item:Max Choices (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+        </attriblist>
+        <tutorial id="67860" bankkey="200" />
+        <resourceslist>
+            <resource type="wordList" id="48321" index="1" bankkey="200" />
+        </resourceslist>
+        <statistic />
+        <content language="ENU" version="2.0">
+            <stem><![CDATA[<p style="color:#000000; "><span id="item_19678_TAG_17" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>Decide<span class="its-tag" data-tag-ref="item_19678_TAG_17" data-tag-boundary="end"></span> <span id="item_19678_TAG_18" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>what<span class="its-tag" data-tag-ref="item_19678_TAG_18" data-tag-boundary="end"></span> <span id="item_19678_TAG_20" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>type<span class="its-tag" data-tag-ref="item_19678_TAG_20" data-tag-boundary="end"></span> of turtle you want and <span id="item_19678_TAG_19" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>which<span class="its-tag" data-tag-ref="item_19678_TAG_19" data-tag-boundary="end"></span> <span id="item_19678_TAG_21" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>aquarium<span class="its-tag" data-tag-ref="item_19678_TAG_21" data-tag-boundary="end"></span> will be its home. &#xA0;</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; "><span id="item_19678_TAG_22" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="6"></span>Follow<span class="its-tag" data-tag-ref="item_19678_TAG_22" data-tag-boundary="end"></span> the directions below <span id="item_19678_TAG_23" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="7"></span>to record<span class="its-tag" data-tag-ref="item_19678_TAG_23" data-tag-boundary="end"></span> information in the chart.</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; ">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="color:#000000; "><span id="item_19678_TAG_24" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="8"></span>Select<span class="its-tag" data-tag-ref="item_19678_TAG_24" data-tag-boundary="end"></span> a turtle from the <span style="font-weight:bold; ">Turtle Facts Chart</span> to have as a class <span id="item_19678_TAG_25" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="9"></span>pet<span class="its-tag" data-tag-ref="item_19678_TAG_25" data-tag-boundary="end"></span>. <span id="item_19678_TAG_26" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="10"></span>Enter<span class="its-tag" data-tag-ref="item_19678_TAG_26" data-tag-boundary="end"></span> the <span id="item_19678_TAG_27" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>type<span class="its-tag" data-tag-ref="item_19678_TAG_27" data-tag-boundary="end"></span> of turtle.</p><p style="color:#000000; ">&#xA0;</p></li><li><p style="color:#000000; "><span id="item_19678_TAG_28" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="11"></span>Use<span class="its-tag" data-tag-ref="item_19678_TAG_28" data-tag-boundary="end"></span> the <span style="font-weight:bold; ">Caring for Your Turtle</span> list. <span id="item_19678_TAG_29" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="10"></span>Enter<span class="its-tag" data-tag-ref="item_19678_TAG_29" data-tag-boundary="end"></span> the minimum volume, in gallons, of an <span id="item_19678_TAG_30" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>aquarium<span class="its-tag" data-tag-ref="item_19678_TAG_30" data-tag-boundary="end"></span> for the turtle you selected <span id="item_19678_TAG_31" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="12"></span>based on<span class="its-tag" data-tag-ref="item_19678_TAG_31" data-tag-boundary="end"></span> its <span id="item_19678_TAG_32" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="13"></span>length<span class="its-tag" data-tag-ref="item_19678_TAG_32" data-tag-boundary="end"></span>.</p><p style="color:#000000; ">&#xA0;</p></li><li><p style="color:#000000; "><span id="item_19678_TAG_33_BEGIN"><span id="item_19678_TAG_33" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="11"></span>Use<span class="its-tag" data-tag-ref="item_19678_TAG_33" data-tag-boundary="end"></span></span> the <span style="font-weight:bold; ">Aquariums for Turtles</span> list. <span id="item_19678_TAG_34" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="10"></span>Enter<span class="its-tag" data-tag-ref="item_19678_TAG_34" data-tag-boundary="end"></span> the <span id="item_19678_TAG_35" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>aquarium<span class="its-tag" data-tag-ref="item_19678_TAG_35" data-tag-boundary="end"></span> with a volume <span style="font-weight:bold; ">greater than</span> the minimum volume and the <span id="item_19678_TAG_36" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="14"></span>lowest<span class="its-tag" data-tag-ref="item_19678_TAG_36" data-tag-boundary="end"></span> cost. </p><p style="color:#000000; ">&#xA0;</p></li></ul><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; font-weight:bold; "><span id="item_19678_TAG_43_BEGIN">My</span> Class Turtle <span id="item_19678_TAG_44_BEGIN">Chart</span></p><p style="color:#000000; ">&#xA0;</p><div align="left"><table class="tableItem" style="width:30em; border-spacing:0;" cellpadding="0" cellspacing="0"><colgroup style="width:21.1956em; " /><colgroup style="width:8.8044em; " /><thead><tr><th scope="col" data-its-identifier="col0" style="vertical-align:middle; padding:0.2292em;  border-left:0.06em solid #000000; border-top:0.06em solid #000000; border-bottom:0.06em solid #000000;"><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Turtle selected </p></th><th scope="col" data-its-identifier="col1" style="padding:0.2292em;  border:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; "><span data-its-input="true" data-its-includedInResponse="true" data-its-validationRule="None"></span></p></th></tr></thead><tbody><tr><td style="vertical-align:middle; padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;"><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Minimum volume</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; "><span data-its-input="true" data-its-validationRule="None">_</span></p></td></tr><tr><td style="vertical-align:middle; padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;"><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Aquarium</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; "><span data-its-input="true" data-its-validationRule="None">_</span></p></td></tr></tbody></table></div>]]></stem>
+            <rubriclist>
+                <rubric scorepoint="">
+                    <name>
+                        Rubric </name>
+                    <val><![CDATA[<p style="color:#000000; ">Exemplar:</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; ">Answers vary depending on the turtle selected.</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; "><span style="font-weight:bold; ">Sample Answers</span> for each turtle are provided in this table:</p><p style="color:#000000; ">&#xA0;</p><div align="margins"><table class="newtable" id="item_19678_Table3" style="width:37.541399999999996em; border-spacing:0;margin-left:0.2361in; margin-right:1.1535in; " cellpadding="0" cellspacing="0"><colgroup style="width:7.7502em; " /><colgroup style="width:11.9544em; " /><colgroup style="width:17.8374em; " /><tbody><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-top:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-weight:bold; font-size:1.0000em; font-family:Verdana; ">Type of Turtle</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-top:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-weight:bold; font-size:1.0000em; font-family:Verdana; ">Minimum volume, in gallons</p></td><td style="padding:0.2292em;  border:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-weight:bold; font-size:1.0000em; font-family:Verdana; ">Aquarium that could be selected in gallons</p></td></tr><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">Red Eared</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; "><img id="item_19678_Object1" style="vertical-align:middle;" src="item_19678_v30_Object1_png16malpha.png" width="38" height="34" /></p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">45</p></td></tr><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">Yellow Belly</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; "><img id="item_19678_Object2" style="vertical-align:middle;" src="item_19678_v30_Object2_png16malpha.png" width="38" height="35" /></p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">45</p></td></tr><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">Wood</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; "><img id="item_19678_Object3" style="vertical-align:middle;" src="item_19678_v30_Object3_png16malpha.png" width="39" height="34" /></p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">45</p></td></tr></tbody></table></div><ul style="padding-left:1.5000em; "><li><p style="color:#000000; ">&#xA0;</p></li></ul><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; ">Note: Student is only required to provide the minimum volume and aquarium size for one type of turtle, not all three. </p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; text-decoration:underline; font-weight:bold; ">2 point text </p><p style="color:#000000; ">Student states a type of turtle, provides the correct minimum volume needed for that type of turtle, and indicates the correct aquarium. </p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; "><span style="text-decoration:underline; font-weight:bold; ">1 point text</span> </p><p style="color:#000000; ">Student states a type of turtle and provides either the correct minimum volume needed for that type of turtle OR the correct aquarium, but not both. </p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; "><span style="text-decoration:underline; font-weight:bold; ">0 point text</span> </p><p style="color:#000000; ">Student does not meet the minimum requirements to receive 1 point. &#xA0;</p>]]></val>
+                </rubric>
+                <samplelist maxval="" minval="" />
+            </rubriclist>
+            <attachmentlist>
+                <attachment id="braillefile1" type="BRF" subtype="nemeth" file="item_19678_enu_nemeth.brf" />
+                <attachment id="aslfile1" type="ASL" subtype="STEM" file="item_19678_ASL_STEM.mp4">
+                    <source src="item_19678_ASL_STEM.webm" type="video/webm" />
+                    <source src="item_19678_ASL_STEM.mp4" type="video/mp4" />
+                </attachment>
+            </attachmentlist>
+            <apipAccessibility>
+                <accessibilityInfo>
+                    <accessElement identifier="ae17">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_TAG_33_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Ewes</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Use</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae21">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_TAG_43_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>The title of the chart is, My</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>My</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae22">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_TAG_44_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Chart. The chart has 2 columns and three rows. From left to right the first row reeds, turtle selected, box. The second row reeds, minimum volume, box. The third row reeds,  aquarium, box.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Chart</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae26">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_Object1" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>42   the fraction 1 over 2,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>42   the fraction 1 over 2,</brailleTextString>
+                                <brailleCode type="Nemeth">#42_?1/2#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae27">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_Object2" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>40   the fraction 5 over 8,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>40   the fraction 5 over 8,</brailleTextString>
+                                <brailleCode type="Nemeth">#40_?5/8#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae28">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_Object3" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>41   the fraction 1 over 4,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>41   the fraction 1 over 4,</brailleTextString>
+                                <brailleCode type="Nemeth">#41_?1/4#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                </accessibilityInfo>
+            </apipAccessibility>
+        </content>
+        <content language="ESN" version="2.0">
+            <stem><![CDATA[<p style="color:#000000; ">Decide qué tipo de tortuga quieres y cuál acuario será su hogar.</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; ">Sigue las instrucciones a continuación para anotar la información en la tabla.</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; ">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="color:#000000; ">Selecciona una tortuga de la <span style="font-weight:bold; ">Tabla de datos sobre tortugas</span> para que sea la mascota de la clase. Escribe el tipo de tortuga.</p><p style="color:#000000; ">&#xA0;</p></li><li><p style="color:#000000; ">Usa la lista de <span style="font-weight:bold; ">Cuidando a tu tortuga</span>. Escribe el volumen mínimo, en galones, del acuario para la tortuga seleccionada basándote en el largo de su cuerpo.</p><p style="color:#000000; ">&#xA0;</p></li><li><p style="color:#000000; ">Usa la lista de <span style="font-weight:bold; ">Acuarios para tortugas</span>. Escribe un acuario con un volumen <span style="font-weight:bold; ">mayor que</span> el volumen mínimo y con el costo minimo. </p><p style="color:#000000; ">&#xA0;</p></li></ul><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; font-weight:bold; ">Tabla sobre la tortuga de mi clase</p><p style="color:#000000; ">&#xA0;</p><p class="languagedivider">&#xA0;</p><p style="color:#000000; "><span id="item_19678_TAG_17" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>Decide<span class="its-tag" data-tag-ref="item_19678_TAG_17" data-tag-boundary="end"></span> <span id="item_19678_TAG_18" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>what<span class="its-tag" data-tag-ref="item_19678_TAG_18" data-tag-boundary="end"></span> <span id="item_19678_TAG_20" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>type<span class="its-tag" data-tag-ref="item_19678_TAG_20" data-tag-boundary="end"></span> of turtle you want and <span id="item_19678_TAG_19" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="4"></span>which<span class="its-tag" data-tag-ref="item_19678_TAG_19" data-tag-boundary="end"></span> <span id="item_19678_TAG_21" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>aquarium<span class="its-tag" data-tag-ref="item_19678_TAG_21" data-tag-boundary="end"></span> will be its home. &#xA0;</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; "><span id="item_19678_TAG_22" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="6"></span>Follow<span class="its-tag" data-tag-ref="item_19678_TAG_22" data-tag-boundary="end"></span> the directions below <span id="item_19678_TAG_23" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="7"></span>to record<span class="its-tag" data-tag-ref="item_19678_TAG_23" data-tag-boundary="end"></span> information in the chart.</p><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; ">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="color:#000000; "><span id="item_19678_TAG_24" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="8"></span>Select<span class="its-tag" data-tag-ref="item_19678_TAG_24" data-tag-boundary="end"></span> a turtle from the <span style="font-weight:bold; ">Turtle Facts Chart</span> to have as a class <span id="item_19678_TAG_25" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="9"></span>pet<span class="its-tag" data-tag-ref="item_19678_TAG_25" data-tag-boundary="end"></span>. <span id="item_19678_TAG_26" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="10"></span>Enter<span class="its-tag" data-tag-ref="item_19678_TAG_26" data-tag-boundary="end"></span> the <span id="item_19678_TAG_27" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>type<span class="its-tag" data-tag-ref="item_19678_TAG_27" data-tag-boundary="end"></span> of turtle.</p><p style="color:#000000; ">&#xA0;</p></li><li><p style="color:#000000; "><span id="item_19678_TAG_28" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="11"></span>Use<span class="its-tag" data-tag-ref="item_19678_TAG_28" data-tag-boundary="end"></span> the <span style="font-weight:bold; ">Caring for Your Turtle</span> list. <span id="item_19678_TAG_29" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="10"></span>Enter<span class="its-tag" data-tag-ref="item_19678_TAG_29" data-tag-boundary="end"></span> the minimum volume, in gallons, of an <span id="item_19678_TAG_30" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>aquarium<span class="its-tag" data-tag-ref="item_19678_TAG_30" data-tag-boundary="end"></span> for the turtle you selected <span id="item_19678_TAG_31" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="12"></span>based on<span class="its-tag" data-tag-ref="item_19678_TAG_31" data-tag-boundary="end"></span> its <span id="item_19678_TAG_32" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="13"></span>length<span class="its-tag" data-tag-ref="item_19678_TAG_32" data-tag-boundary="end"></span>.</p><p style="color:#000000; ">&#xA0;</p></li><li><p style="color:#000000; "><span id="item_19678_TAG_33_BEGIN"><span id="item_19678_TAG_33" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="11"></span>Use<span class="its-tag" data-tag-ref="item_19678_TAG_33" data-tag-boundary="end"></span></span> the <span style="font-weight:bold; ">Aquariums for Turtles</span> list. <span id="item_19678_TAG_34" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="10"></span>Enter<span class="its-tag" data-tag-ref="item_19678_TAG_34" data-tag-boundary="end"></span> the <span id="item_19678_TAG_35" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="5"></span>aquarium<span class="its-tag" data-tag-ref="item_19678_TAG_35" data-tag-boundary="end"></span> with a volume <span style="font-weight:bold; ">greater than</span> the minimum volume and the <span id="item_19678_TAG_36" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="14"></span>lowest<span class="its-tag" data-tag-ref="item_19678_TAG_36" data-tag-boundary="end"></span> cost. </p><p style="color:#000000; ">&#xA0;</p></li></ul><p style="color:#000000; ">&#xA0;</p><p style="color:#000000; font-weight:bold; "><span id="item_19678_TAG_43_BEGIN">My</span> Class Turtle <span id="item_19678_TAG_44_BEGIN">Chart</span></p><p style="color:#000000; ">&#xA0;</p><div align="left"><table class="tableItem" style="width:19.5624em; border-spacing:0;" cellpadding="0" cellspacing="0"><colgroup style="width:12.8748em; " /><colgroup style="width:6.6876em; " /><thead><tr><th scope="col" data-its-identifier="col0" style="padding:0.2292em;  border-left:0.06em solid #000000; border-top:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Tortuga seleccionada</p><p class="languagedivider">&#xA0;</p><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Turtle selected </p></th><th scope="col" data-its-identifier="col1" style="padding:0.2292em;  border:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; "><span data-its-input="true" data-its-includedInResponse="true" data-its-validationRule="None"></span></p></th></tr></thead><tbody><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Volumen mínimo</p><p class="languagedivider">&#xA0;</p><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Minimum volume</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; "><span data-its-input="true" data-its-validationRule="None">_</span></p></td></tr><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Acuario</p><p class="languagedivider">&#xA0;</p><p style="color:#000000; font-size:1.0000em; font-family:Verdana; ">Aquarium</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="color:#000000; font-size:1.0000em; font-family:Verdana; "><span data-its-input="true" data-its-validationRule="None">_</span></p></td></tr></tbody></table></div>]]></stem>
+            <rubriclist>
+                <rubric scorepoint="_Spanish">
+                    <name>
+                        Rubric _Spanish</name>
+                    <val><![CDATA[<p style="">Exemplar:</p><p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="">&#xA0;</p></li></ul><div align="margins"><table class="newtable" id="item_19678_Table4" style="width:23.7498em; border-spacing:0;margin-left:0.1979in; margin-right:3.4903in; " cellpadding="0" cellspacing="0"><colgroup style="width:5.4294em; " /><colgroup style="width:9.3126em; " /><colgroup style="width:9.0042em; " /><tbody><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-top:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-weight:bold; font-size:1.0000em; font-family:Verdana; ">Tipo de tortuga</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-top:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-weight:bold; font-size:1.0000em; font-family:Verdana; ">Volumen mínimo, en galones</p></td><td style="padding:0.2292em;  border:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-weight:bold; font-size:1.0000em; font-family:Verdana; ">Acuario que podría seleccionarse, en galones</p></td></tr><tr style=""><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">De orejas rojas</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; "><img id="item_19678_Object4" style="vertical-align:middle;" src="item_19678_v30_Object4_png16malpha.png" width="38" height="34" /></p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">45</p></td></tr><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">De vientre amarillo</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; "><img id="item_19678_Object5" style="vertical-align:middle;" src="item_19678_v30_Object5_png16malpha.png" width="38" height="35" /></p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">45</p></td></tr><tr><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">De la madera</p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; "><img id="item_19678_Object6" style="vertical-align:middle;" src="item_19678_v30_Object6_png16malpha.png" width="39" height="34" /></p></td><td style="padding:0.2292em;  border-left:0.06em solid #000000; border-right:0.06em solid #000000; border-bottom:0.06em solid #000000;vertical-align:top; "><p style="text-align:center; color:#000000; font-size:1.0000em; font-family:Verdana; ">45</p></td></tr></tbody></table></div><ul style="padding-left:1.5000em; "><li><p style="">&#xA0;</p><p style="">&lt;show or explain one particular correct answer&gt;</p></li></ul><p style="">&#xA0;</p><p style="">Other Correct Responses:</p><p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="">&lt;if applicable, list all the correct answers or give a rule for all the correct answers&gt;</p></li></ul><p style="">&#xA0;</p><p style="">For this item, a full-credit response includes</p><p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="">&lt;explain what is required for the 1st point here&gt; (1 point).</p></li></ul>]]></val>
+                </rubric>
+                <samplelist maxval="_Spanish" minval="_Spanish" />
+            </rubriclist>
+            <attachmentlist>
+                <attachment id="aslfile1" type="ASL" subtype="STEM" file="item_19678_ASL_STEM.mp4">
+                    <source src="item_19678_ASL_STEM.webm" type="video/webm" />
+                    <source src="item_19678_ASL_STEM.mp4" type="video/mp4" />
+                </attachment>
+            </attachmentlist>
+            <apipAccessibility>
+                <accessibilityInfo>
+                    <accessElement identifier="ae17">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_TAG_33_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Ewes</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Use</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae21">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_TAG_43_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>The title of the chart is, My</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>My</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae22">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_TAG_44_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>Chart. The chart has 2 columns and three rows. From left to right the first row reeds, turtle selected, box. The second row reeds, minimum volume, box. The third row reeds,  aquarium, box.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>Chart</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae23">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_Object4" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>42   the fraction 1 over 2,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>42   the fraction 1 over 2,</brailleTextString>
+                                <brailleCode type="Nemeth">#42_?1/2#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae24">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_Object5" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>40   the fraction 5 over 8,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>40   the fraction 5 over 8,</brailleTextString>
+                                <brailleCode type="Nemeth">#40_?5/8#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae25">
+                        <contentLinkInfo itsLinkIdentifierRef="item_19678_Object6" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>41   the fraction 1 over 4,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>41   the fraction 1 over 4,</brailleTextString>
+                                <brailleCode type="Nemeth">#41_?1/4#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                </accessibilityInfo>
+            </apipAccessibility>
+        </content>
+    </item>
+</itemrelease>
