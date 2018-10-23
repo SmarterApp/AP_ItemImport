@@ -75,7 +75,7 @@ logging:
           common: "info"
 
 item-import:
-  dryRun: false
+  dryRun: true
   environment: "local"
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
