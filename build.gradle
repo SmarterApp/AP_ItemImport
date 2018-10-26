@@ -114,6 +114,7 @@ dependencies {
     testCompile 'org.projectlombok:lombok'
 }
 
+
 dependencyManagement {
     imports {
         mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Dalston.RELEASE'
@@ -157,13 +158,13 @@ artifactory {
 
     publish {
         repository {
-            repoKey  = project.version.contains('-SNAPSHOT') ? project.artifactorySnapshotPublish : project.artifactoryReleasePublish
+            repoKey = project.version.contains('-SNAPSHOT') ? project.artifactorySnapshotPublish : project.artifactoryReleasePublish
             username = project.artifactoryUser
             password = project.artifactoryPassword
-            maven	 = true
+            maven = true
         }
-        Defaults {
-            publications ('mavenJava')
+        defaults {
+            publications('mavenJava')
         }
     }
 }
@@ -175,11 +176,11 @@ artifactory {
 task k8sCopyFiles(type: Copy) {
 
     from('src/main/kubernetes/') {
-        filter(ReplaceTokens, tokens: [version              : project.version,
-                                       dockerTagBase        : project.dockerTagBase,
-                                       kubecfgState         : project.kubecfgState,
-                                       kubecfgName          : project.kubecfgName,
-                                       kubecfgDeployment    : project.kubecfgDeployment])
+        filter(ReplaceTokens, tokens: [version          : project.version,
+                                       dockerTagBase    : project.dockerTagBase,
+                                       kubecfgState     : project.kubecfgState,
+                                       kubecfgName      : project.kubecfgName,
+                                       kubecfgDeployment: project.kubecfgDeployment])
     }
 
     into 'build/kubernetes'
@@ -188,11 +189,11 @@ task k8sCopyFiles(type: Copy) {
 task k8sCopyFilesUat(type: Copy) {
 
     from('src/main/kubernetes/') {
-        filter(ReplaceTokens, tokens: [version              : project.version,
-                                       dockerTagBase        : project.dockerTagBase,
-                                       kubecfgState         : project.kubecfgState,
-                                       kubecfgName          : project.kubecfgNameUat,
-                                       kubecfgDeployment    : project.kubecfgDeployment])
+        filter(ReplaceTokens, tokens: [version          : project.version,
+                                       dockerTagBase    : project.dockerTagBase,
+                                       kubecfgState     : project.kubecfgState,
+                                       kubecfgName      : project.kubecfgNameUat,
+                                       kubecfgDeployment: project.kubecfgDeployment])
     }
 
     into 'build/kubernetes'
@@ -214,10 +215,10 @@ task dockerCopyFiles(type: Copy) {
     dependsOn 'bootRepackage'
 
     from('src/main/docker/') {
-        filter(ReplaceTokens, tokens: [USER_HOME:           System.env.HOME,
+        filter(ReplaceTokens, tokens: [USER_HOME          : System.env.HOME,
                                        configServerVersion: project.configServerVersion,
-                                       version:             project.version,
-                                       dockerTagBase:       project.dockerTagBase])
+                                       version            : project.version,
+                                       dockerTagBase      : project.dockerTagBase])
     }
 
     from("build/libs/${jar.archiveName}") {
@@ -300,6 +301,7 @@ tasks.withType(FindBugs) {
         html.stylesheet resources.text.fromFile('config/findbugs/findbugs-color.xsl')
     }
 }
+
 
 /***************************
  * set common version
