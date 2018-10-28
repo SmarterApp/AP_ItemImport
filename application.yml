@@ -75,14 +75,14 @@ logging:
           common: "info"
 
 item-import:
-  dryRun: true
-  environment: "local"
+  dryRun: false
+  environment: "LOCAL"
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
   deleteIfExists: true
   localBaseDir: "${HOME}/ItemImportTemp"
-  itemSourceDir: "${HOME}/ItemImportSource/stg/items"
-  stimuliSourceDir: "${HOME}/ItemImportSource/stg/stimuli"
+  itemSourceDir: "${HOME}/ItemImportStaging/items"
+  stimuliSourceDir: "${HOME}/ItemImportStaging/stimuli"
   importIdFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
@@ -97,7 +97,7 @@ itembank:
   group: "iat-development"
 
 item-import:
-  environment: "development"
+  environment: "DEVELOPMENT"
 
 ---
 spring:
@@ -109,4 +109,4 @@ itembank:
   group: "iat-uat"
 
 item-import:
-  environment: "uat"
+  environment: "UAT"
