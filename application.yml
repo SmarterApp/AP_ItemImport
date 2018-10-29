@@ -24,7 +24,7 @@ security:
 
 spring:
   session:
-    enabled: "${SESSION_CLUSTER_ENABLED:true}"
+    enabled: "false"
   datasource:
     url: "jdbc:postgresql://localhost:5432/iat"
     username: "${DB_USER}"
