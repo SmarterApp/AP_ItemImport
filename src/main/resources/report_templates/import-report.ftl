@@ -10,11 +10,11 @@ Execution Time: ${report.executionTime}
 
 The following items were imported successfully
 --------------------------------------------------
-"its id","tims id","status","item type"
+"its id","tims id","status","item type","commit message"
 <#list report.importResults>
     <#items as result>
         <#if result.status == "SUCCESS">
-"${result.itemId}","${result.importedItemId}","success","${result.itemType}"
+"${result.itemId}","${result.importedItemId}","success","${result.itemType}","${result.commitMessage}"
         </#if>
     </#items>
 </#list>
