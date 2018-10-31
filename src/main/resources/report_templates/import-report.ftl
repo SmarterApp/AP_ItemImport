@@ -18,7 +18,8 @@ The following items were imported successfully
         </#if>
     </#items>
 </#list>
-
+--------------------------------------------------
+Successful count: ${report.successCount}
 
 The following errors were reported while importing
 --------------------------------------------------
