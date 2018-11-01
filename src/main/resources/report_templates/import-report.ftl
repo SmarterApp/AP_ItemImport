@@ -2,6 +2,7 @@
 ==================================================
 Import Report Summary
 ==================================================
+Import Id File: ${report.appProps.importIdFile}
     Is Dry Run: ${report.appProps.dryRun?c}
    Environment: ${report.appProps.environment}
     Start Time: ${report.startTime?datetime}
