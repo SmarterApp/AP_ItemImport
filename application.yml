@@ -81,9 +81,9 @@ item-import:
   systemFullname: "Item Import"
   deleteIfExists: false
   localBaseDir: "${HOME}/ItemImportTemp"
-  stimuliSourceDir: "${HOME}/ItemImportSource/prod/stimulus"
-  wordlistSourceDir: "${HOME}/ItemImportSource/prod/items"
-  itemSourceDir: "${HOME}/ItemImportSource/prod/items"
+  stimuliSourceDir: "${HOME}/ItemImportStaging/stim"
+  wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
+  itemSourceDir: "${HOME}/ItemImportStaging/sa"
   importIdFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
