@@ -162,7 +162,7 @@ artifactory {
             password = project.artifactoryPassword
             maven	 = true
         }
-        Defaults {
+        defaults {
             publications ('mavenJava')
         }
     }
