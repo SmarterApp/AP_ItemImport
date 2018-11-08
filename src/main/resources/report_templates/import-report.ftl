@@ -2,12 +2,13 @@
 ==================================================
 Import Report Summary
 ==================================================
-Import Id File: ${report.appProps.importIdFile}
-    Is Dry Run: ${report.appProps.dryRun?c}
-   Environment: ${report.appProps.environment}
-    Start Time: ${report.startTime?datetime}
-      End Time: ${report.endTime?datetime}
-Execution Time: ${report.executionTime}
+  Import Id File: ${report.applicationProps.importIdFile}
+      Is Dry Run: ${report.applicationProps.dryRun?c}
+     Environment: ${report.applicationProps.environment}
+      Start Time: ${report.startTime?datetime}
+        End Time: ${report.endTime?datetime}
+  Execution Time: ${report.executionTime}
+    Import Count: ${report.successCount}
 
 The following items were imported successfully
 --------------------------------------------------
@@ -15,12 +16,11 @@ The following items were imported successfully
 <#list report.importResults>
     <#items as result>
         <#if result.status == "SUCCESS">
-"${result.itemId}","${result.importedItemId}","success","${result.itemType}","${result.commitMessage}"
+"${result.itemId}","${result.importedItemId}","success","${result.importedItemType}","${result.commitMessage}"
         </#if>
     </#items>
 </#list>
---------------------------------------------------
-Successful count: ${report.successCount}
+
 
 The following errors were reported while importing
 --------------------------------------------------
