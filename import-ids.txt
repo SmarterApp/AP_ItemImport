@@ -1,6 +1,1 @@
-Item-200-3050,Archetypes,Archived
-Item-200-6049,Archetypes,Archived
-Item-200-12166,ASL Video Entry,ParkingLot
-Item-200-12781,Rejected Status,Rejected
-Item-200-12783,Rejected Status,Rejected
-Item-200-12785,Archetypes,Archived
+Item-200-13282,Released Status,Released

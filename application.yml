@@ -76,6 +76,8 @@ logging:
 
 item-import:
   dryRun: true
+  importEnabled: true
+#  wordlistProcessingEnabled: false
   environment: "LOCAL"
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
@@ -83,7 +85,7 @@ item-import:
   localBaseDir: "${HOME}/ItemImportTemp"
   stimuliSourceDir: "${HOME}/ItemImportStaging/stim"
   wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
-  itemSourceDir: "${HOME}/ItemImportStaging/mi"
+  itemSourceDir: "${HOME}/ItemImportStaging/htq"
   importIdFile: "import-ids.txt"
   numberOfThreads: 4
   publishReportEnabled: true
