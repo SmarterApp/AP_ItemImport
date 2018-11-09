@@ -1,0 +1,161 @@
+[{
+  "name": "iat_SeniorContentReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_AccessibilityReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_FieldTestReady",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_EducatorCommitteeReview_Member",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_ParkingLot",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_EducatorCommitteeReview_Facilitator",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_EditorialReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_FieldTest",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_Rejected",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_QualityCorrectionsContent",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_Archived",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_Calibrations",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_QualityCorrectionsEditorial",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_QualityCorrectionsSenior",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_FinalApproval",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_SmarterAccessibilityReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_SmarterStudentSupportAuditReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_TextToSpeechUpload",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_MultimediaUpload",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_AccessibilityUpload",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_Operational",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_Draft",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_DataReview_Member",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_InitialReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_SmarterCopyEdit",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_ContentReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_DataReview_Facilitator",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_Released",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_TextToSpeechReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "Administrator",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_SmarterContentAuditReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}, {
+  "name": "iat_SmarterContentReview",
+  "permissions": [{
+    "name": "glossary_write"
+  }]
+}]
