@@ -76,19 +76,19 @@ logging:
 
 item-import:
   dryRun: true
-  importEnabled: true
-#  wordlistProcessingEnabled: false
+  itemImportEnabled: true
+  wordlistImportEnabled: false
+  deleteIfExists: false
+  numberOfThreads: 4
+  publishReportEnabled: true
   environment: "LOCAL"
   systemUsername: "item-import@smarterbalanced.org"
   systemFullname: "Item Import"
-  deleteIfExists: false
   localBaseDir: "${HOME}/ItemImportTemp"
   stimuliSourceDir: "${HOME}/ItemImportStaging/stim"
   wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
-  itemSourceDir: "${HOME}/ItemImportStaging/htq"
+  itemSourceDir: "${HOME}/ItemImportStaging/stim"
   importIdFile: "import-ids.txt"
-  numberOfThreads: 4
-  publishReportEnabled: true
 
 ---
 spring:
