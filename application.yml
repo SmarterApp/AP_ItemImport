@@ -75,9 +75,9 @@ logging:
           common: "info"
 
 item-import:
-  dryRun: false
-  itemImportEnabled: false
-  wordlistImportEnabled: true
+  dryRun: true
+  itemImportEnabled: true
+  wordlistImportEnabled: false
   deleteIfExists: false
   numberOfThreads: 4
   publishReportEnabled: true
