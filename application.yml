@@ -75,19 +75,33 @@ logging:
           common: "info"
 
 item-import:
+  # When set to true data will NOT be persisted. Data gets mapped and log file produced.
   dryRun: true
+  # When set to true new items will be processed for import.
   itemImportEnabled: true
+  # When set to true glossary terms will be imported to existing items.
   wordlistImportEnabled: false
+  # When set to true items will be deleted prior to being imported.
   deleteIfExists: false
+  # Number of threads to be used by the Spring Boot asyncExecutor
   numberOfThreads: 4
+  # When set to true a log file will be written to the application run directory.
   publishReportEnabled: true
+  # Label used to identify environment to user prior to executing the application
   environment: "LOCAL"
+  # Username for Gitlab operations
   systemUsername: "item-import@smarterbalanced.org"
+  # Full Name for Gitlab operations
   systemFullname: "Item Import"
+  # Temporary directory used to package attachments uploaded to S3
   localBaseDir: "${HOME}/ItemImportTemp"
+  # Directory that contains all Stimulus items
   stimuliSourceDir: "${HOME}/ItemImportStaging/stim"
+  # Directory that contains all Wordlist (wit) items
   wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
+  # Directory that contains all items to be processed
   itemSourceDir: "${HOME}/ItemImportStaging/stim"
+  # Directory that contains a comma delimited list of ItemId, ITS Status and TIMS status values to be processed
   importIdFile: "import-ids.txt"
 
 ---
