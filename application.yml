@@ -100,7 +100,7 @@ item-import:
   # Directory that contains all Wordlist (wit) items
   wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
   # Directory that contains all items to be processed
-  itemSourceDir: "${HOME}/ItemImportStaging/stim"
+  itemSourceDir: "${HOME}/ItemImportStaging/gi"
   # Directory that contains a comma delimited list of ItemId, ITS Status and TIMS status values to be processed
   importIdFile: "import-ids.txt"
 
