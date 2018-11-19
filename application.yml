@@ -81,6 +81,8 @@ item-import:
   itemImportEnabled: true
   # When set to true glossary terms will be imported to existing items.
   wordlistImportEnabled: false
+  # When set to true gitlab projects will be deleted.
+  deleteGitlabProjectEnabled: false
   # When set to true items will be deleted prior to being imported.
   deleteIfExists: false
   # Number of threads to be used by the Spring Boot asyncExecutor
@@ -99,10 +101,12 @@ item-import:
   stimuliSourceDir: "${HOME}/ItemImportStaging/stim"
   # Directory that contains all Wordlist (wit) items
   wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
-  # Directory that contains all items to be processed
+  # Directory containing all items to be processed
   itemSourceDir: "${HOME}/ItemImportStaging/gi"
-  # Directory that contains a comma delimited list of ItemId, ITS Status and TIMS status values to be processed
+  # File containing a comma delimited list of ItemId, ITS Status and TIMS status values to be processed
   importIdFile: "import-ids.txt"
+  # Directory containing a list of item ids to be deleted
+  gitlabDeleteIdFile: "delete-ids.txt"
 
 ---
 spring:
