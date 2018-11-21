@@ -51,6 +51,7 @@ itembank:
   systemVersion: "iat-24"
   enabled:
     manager: true
+    broker: true
     database: true
     producer: true
   aws:
