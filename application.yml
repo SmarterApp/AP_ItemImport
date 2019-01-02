@@ -48,7 +48,7 @@ itembank:
   localBaseDir: "${HOME}/ItemBankImport"
   apiVersion: "/api/v4"
   bankKey: "200"
-  systemVersion: "iat-24"
+  systemVersion: "iat-31"
   enabled:
     manager: true
     broker: true
@@ -62,10 +62,10 @@ itembank:
     secretKey: "${IAT_AWS_ACCESS_SECRET}"
   events:
     exchange: "iat_item_event_exchange"
-    queue: "iat_item_event_queue"
-    eventKey: "iat.item.event.*"
-    error-queue: "iat_item_event_queue.dlq"
-    error-event-key: "error.iat.item.event.*"
+    queue:
+      queueName: "iat_item_event_queue"
+    errorQueue:
+      queueName: "iat_item_event_queue.dlq"
 
 logging:
   level:
@@ -103,7 +103,7 @@ item-import:
   # Directory that contains all Wordlist (wit) items
   wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
   # Directory containing all items to be processed
-  itemSourceDir: "${HOME}/ItemImportStaging/gi"
+  itemSourceDir: "${HOME}/ItemImportStaging/sa"
   # File containing a comma delimited list of ItemId, ITS Status and TIMS status values to be processed
   importIdFile: "import-ids.txt"
   # Directory containing a list of item ids to be deleted
