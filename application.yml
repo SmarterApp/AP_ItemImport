@@ -77,7 +77,7 @@ logging:
 
 item-import:
   # When set to true data will NOT be persisted. Data gets mapped and log file produced.
-  dryRun: true
+  dryRun: false
   # When set to true new items will be processed for import.
   itemImportEnabled: true
   # When set to true glossary terms will be imported to existing items.
@@ -85,7 +85,7 @@ item-import:
   # When set to true gitlab projects will be deleted.
   deleteGitlabProjectEnabled: false
   # When set to true items will be deleted prior to being imported.
-  deleteIfExists: false
+  deleteIfExists: true
   # Number of threads to be used by the Spring Boot asyncExecutor
   numberOfThreads: 4
   # When set to true a log file will be written to the application run directory.
