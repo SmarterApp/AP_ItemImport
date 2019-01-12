@@ -77,11 +77,11 @@ logging:
 
 item-import:
   # When set to true data will NOT be persisted. Data gets mapped and log file produced.
-  dryRun: true
+  dryRun: false
   # When set to true new items will be processed for import.
-  itemImportEnabled: true
+  itemImportEnabled: false
   # When set to true glossary terms will be imported to existing items.
-  wordlistImportEnabled: false
+  wordlistImportEnabled: true
   # When set to true gitlab projects will be deleted.
   deleteGitlabProjectEnabled: false
   # When set to true items will be deleted prior to being imported.
@@ -108,6 +108,8 @@ item-import:
   importIdFile: "import-ids.txt"
   # Directory containing a list of item ids to be deleted
   gitlabDeleteIdFile: "delete-ids.txt"
+  #User Roles File
+  userRolesFile: "user-roles.json"
 
 ---
 spring:
