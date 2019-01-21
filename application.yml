@@ -77,11 +77,11 @@ logging:
 
 item-import:
   # When set to true data will NOT be persisted. Data gets mapped and log file produced.
-  dryRun: false
+  dryRun: true
   # When set to true new items will be processed for import.
-  itemImportEnabled: false
+  itemImportEnabled: true
   # When set to true glossary terms will be imported to existing items.
-  wordlistImportEnabled: true
+  wordlistImportEnabled: false
   # When set to true gitlab projects will be deleted.
   deleteGitlabProjectEnabled: false
   # When set to true items will be deleted prior to being imported.
@@ -103,7 +103,7 @@ item-import:
   # Directory that contains all Wordlist (wit) items
   wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
   # Directory containing all items to be processed
-  itemSourceDir: "${HOME}/ItemImportStaging/ebsr"
+  itemSourceDir: "${HOME}/ItemImportStaging/mc"
   # File containing a comma delimited list of ItemId, ITS Status and TIMS status values to be processed
   importIdFile: "import-ids.txt"
   # Directory containing a list of item ids to be deleted
