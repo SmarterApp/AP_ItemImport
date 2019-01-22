@@ -77,7 +77,7 @@ logging:
 
 item-import:
   # When set to true data will NOT be persisted. Data gets mapped and log file produced.
-  dryRun: false
+  dryRun: true
   # When set to true new items will be processed for import.
   itemImportEnabled: true
   # When set to true glossary terms will be imported to existing items.
