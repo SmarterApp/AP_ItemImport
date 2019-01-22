@@ -97,13 +97,13 @@ item-import:
   # Full Name for Gitlab operations
   systemFullname: "Item Import"
   # Temporary directory used to package attachments uploaded to S3
-  localBaseDir: "${HOME}/ItemImportTemp"
+  localBaseDir: "${IAT_IMPORT_LOCAL_BASE_DIR}"
   # Directory that contains all Stimulus items
-  stimuliSourceDir: "${HOME}/ItemImportStaging/stim"
+  stimuliSourceDir: "${IAT_IMPORT_STIMULI_DIR}"
   # Directory that contains all Wordlist (wit) items
-  wordlistSourceDir: "${HOME}/ItemImportStaging/wit"
+  wordlistSourceDir: "${IAT_IMPORT_WORDLIST_DIR}"
   # Directory containing all items to be processed
-  itemSourceDir: "${HOME}/ItemImportStaging/mc"
+  itemSourceDir: "${IAT_IMPORT_ITEM_DIR}"
   # File containing a comma delimited list of ItemId, ITS Status and TIMS status values to be processed
   importIdFile: "import-ids.txt"
   # Directory containing a list of item ids to be deleted
