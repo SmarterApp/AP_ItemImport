@@ -80,12 +80,10 @@ item-import:
   dryRun: false
   # When set to true new items will be processed for import.
   itemImportEnabled: true
-  # When set to true glossary terms will be imported to existing items.
-  wordlistImportEnabled: false
-  # When set to true gitlab projects will be deleted.
-  deleteGitlabProjectEnabled: false
-  # When set to true items will be deleted prior to being imported.
-  deleteIfExists: true
+  # When set to true, existing items will only have their import.zip updated
+  updateImportZipOnly: true
+  # When set to true items will be deleted prior to being imported if they already exist in the data store
+  deleteIfExists: false
   # Number of threads to be used by the Spring Boot asyncExecutor
   numberOfThreads: 4
   # When set to true a log file will be written to the application run directory.
