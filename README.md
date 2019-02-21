@@ -32,6 +32,22 @@ Build: ```./gw clean build```
 Build skip tests: ```./gw clean build -x test```
 
 Run: ```./gw bootRun```
+
+## IAT/TIMS Dependencies
+Import needs the following TIMS applications running to work properly.
+
+* [Item Bank Sync Application](https://github.com/SmarterApp/AP_ItemBankSyncService)
+* [Item Managment Service](https://github.com/SmarterApp/AP_ItemManagementService)
+
+The two applications need to point to the same environment as the import.  For example, if you are running item import against the development environment you'll want ot make sure item bank sync and item management service are also pointing at development.
+
+## Import Directories
+The import application looks for items to import in directories on your file system.  These are driven by the environment variables (in your `.bash_profile`).  The following directories are used:
+
+* `IAT_IMPORT_LOCAL_BASE_DIR` - This is the directory used by the import application to stage items to import.
+* `IAT_IMPORT_ITEM_DIR` - the directory containing the items to import excluding stimuli.
+* `IAT_IMPORT_WORDLIST_DIR` - the directory containing the wordlists to import
+* `IAT_IMPORT_STIMULI_DIR` - the directory containing the stimuli to import
   
 ## application.yml
 
