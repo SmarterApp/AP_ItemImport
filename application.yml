@@ -81,7 +81,7 @@ item-import:
   # When set to true new items will be processed for import.
   itemImportEnabled: true
   # When set to true, existing items will only have their import.zip updated
-  updateImportZipOnly: true
+  updateImportZipOnly: false
   # When set to true items will be deleted prior to being imported if they already exist in the data store
   deleteIfExists: false
   # Number of threads to be used by the Spring Boot asyncExecutor
