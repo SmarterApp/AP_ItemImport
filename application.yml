@@ -30,6 +30,7 @@ spring:
     username: "${DB_USER}"
     password: "${DB_PASSWORD}"
     validationQuery: "SELECT 1"
+    maxActive: 5
   jpa:
     hibernate:
       ddl-auto: "validate"
