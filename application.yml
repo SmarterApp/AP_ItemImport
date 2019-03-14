@@ -84,7 +84,7 @@ item-import:
   # When set to true, existing items will only have their import.zip updated
   updateImportZipOnly: false
   # When set to true items will be deleted prior to being imported if they already exist in the data store
-  deleteIfExists: false
+  deleteIfExists: true
   # Number of threads to be used by the Spring Boot asyncExecutor
   numberOfThreads: 4
   # When set to true a log file will be written to the application run directory.
