@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemrelease version="2.0">
+    <item format="eq" id="11065" version="6" bankkey="200">
+        <attriblist>
+            <attrib attid="itm_item_id">
+                <name>Item: ITS ID</name>
+                <val>11065</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_subject">
+                <name>Item: Subject</name>
+                <val>MATH</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_item_desc">
+                <name>Item: Item Description</name>
+                <val>Math.6.2.NS.2A</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_FTUse">
+                <name>Fieldtest Use</name>
+                <val>Platform::MG6::12.3 (489); SBAC-PR1-FM1-MATH-6-2018 (125); SBAC-PR1-FM1-MATH-6-SPA-2018 (63); SBAC-PR1-FM1-MATH-6-SPA-Spring-2018-2019 (63);</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_OPUse">
+                <name>Operational Use</name>
+                <val>CAT::MG6::ONONCalc-S1-A1::SP14 (62); CAT::MG6::ONCalc-S1-D::SP14 (168); FAKE MATH FORM (3656); CAT::MG6::ONCalc-S1-A2::SP14 (62); CAT::MG6::ONCalc-S1-A3::SP14 (62); CAT::MG6::ONCalc-S3-A3::SP14 (62); CAT::MG6::ONCalc-S4-A2::SP14 (62); CAT::MG6::CA-ONCalc::SP14 (62); CAT::MG5::UPCalc-S1-B::SP14-ESN (62); CAT::MG5::UPCalc-S3-B::SP14-ESN (62); CAT::MG6::ONCalc-S4-A2::SP14-ESN (62); CAT::MG6::ONCalc-S1-A2::SP14-ESN (62); CAT::MG6::ONCalc-S1-D::SP14-ESN (62); CAT::MG6::ONCalc-S3-A3::SP14-ESN (62); CAT::MG6::ONCalc-S1-A3::SP14-ESN (62); CAT::MG7::DWNCalc-S1-C::SP14-ESN (62); CAT::MG7::DWNCalc-S4-C::SP14-ESN (62); CAT::MG6::CA-ONCalc::SP14-ESN (62); CAT::MG6::CA-ONCalc::D::SP14 (168); CAT::MG6::CA-ONCalc::D::SP14-ESN (62); CAT::MG6::CA-ONCalc::D (168); Math OP G6 Calc 2015 ENG (122); Math OP G6 Calc 2015 BRL (5); Math OP G6 Calc 2015 SPA (7); Math Oregon OP G6 Calc 2015 ENG (121); Math Oregon OP G6 Calc 2015 BRL (5); Math Oregon OP G6 Calc 2015 SPA (7); Math OP G6 Calc 2015 ENG COMBINED (128); Math OP G6 Calc 2015 BRL COMBINED (5); Math OP G6 Calc 2015 SPA COMBINED (8); Math Oregon OP G6 Calc 2015 BRL COMBINED (5); Math Oregon OP G6 Calc 2015 SPA COMBINED (7); Math Oregon OP G6 Calc 2015 COMBINED (122); Math OP G6 Calc 2016 ENG (291); Math OP G6 Calc 2016 BRL (130); Math OP G6 Calc 2016 SPA (152); Math OP G6 Calc 2016 ENG COMBINED (291); Math OP G6 Calc 2016 BRL COMBINED (130); Math OP G6 Calc 2016 SPA COMBINED (152); Math Meta-Metric OP G6 Calc 2016 ENG (291); Math Meta-Metric OP G6 Calc 2016 BRL (130); Math Meta-Metric OP G6 Calc 2016 SPA (152); Math Meta-Metric OP G6 Calc 2016 ENG COMBINED (291); Math Meta-Metric OP G6 Calc 2016 BRL COMBINED (130); Math Meta-Metric OP G6 Calc 2016 SPA COMBINED (152); CT Math OP G6 Calc 2016 ENG (291); CT Math OP G6 Calc 2016 BRL (130); CT Math OP G6 Calc 2016 SPA (152); Math OP G6 Calc 2017 ENG (120); Math OP G6 Calc 2017 BRL (58); Math OP G6 Calc 2017 SPA (68); Math OP G6 Calc BP EFT SP17 ENG (120); Math OP G6 Calc BP EFT SP17 BRL (58); Math OP G6 Calc BP EFT SP17 SPA (68); Math OP G6 Calc 2017 ENG COMBINED (120); Math OP G6 Calc 2017 BRL COMBINED (58); Math OP G6 Calc 2017 SPA COMBINED (68); CT Math OP G6 Calc 2017 ENG (120); CT Math OP G6 Calc 2017 BRL (58); CT Math OP G6 Calc 2017 SPA (68); SBAC-PR1-FM1-MATH-6 (77); Math OP G6 Calc BP EFT SP17 ENG COMBINED (120); Math OP G6 Calc BP EFT SP17 BRL COMBINED (58); Math OP G6 Calc BP EFT SP17 SPA COMBINED (68); ID Math OP G6 Calc 2017 ENG (120); ID Math OP G6 Calc 2017 BRL (58); ID Math OP G6 Calc 2017 SPA (68); ID Math OP G6 Calc BP EFT SP17 ENG (120); ID Math OP G6 Calc BP EFT SP17 BRL (58); ID Math OP G6 Calc BP EFT SP17 SPA (68); Math OP G6 Calc 2018 ENG (184); Math OP G6 Calc 2018 BRL (70); Math OP G6 Calc 2018 SPA (82); Math-G6-Calc-Shorter-BP (120); Math OP G6 Calc BP EFT SP18 ENG (184); Math OP G6 Calc BP EFT SP18 BRL (70); Math OP G6 Calc BP EFT SP18 SPA (82); Math G6 Calc 2018 ENG AIRshortBP (184); Math G6 Calc 2018 BRL AIRshortBP (70); Math G6 Calc 2018 SPA AIRshortBP (82); Math OP G6 Calc 2018 ENG COMBINED (184); Math OP G6 Calc 2018 BRL COMBINED (70); Math OP G6 Calc 2018 SPA COMBINED (82); Math OP G6 Calc BP EFT SP18 ENG COMBINED (184); Math OP G6 Calc BP EFT SP18 BRL COMBINED (70); Math OP G6 Calc BP EFT SP18 SPA COMBINED (82); Oregon Math G6 Calc 2018 ENG AIRshortBP (184); Oregon Math G6 Calc 2018 BRL AIRshortBP (70); Oregon Math G6 Calc 2018 SPA AIRshortBP (82); OR Math EFT PT G6 Calc SP18 ENG (184); OR Math EFT PT G6 Calc SP18 BRL (70); OR Math EFT PT G6 Calc SP18 SPA (82); CT-SBAC-Math-OP-G6-Calc-2018_6118788_ENU_Default (125); CT-SBAC-Math-OP-G6-Calc-2018_6118788_ENU-Braille_Default (58); CT-SBAC-Math-OP-G6-Calc-2018_6118788_ESN_Default (63); BrailleHAT-CAT-BRF-G6M-Calc-2018_6619775_ENU-Braille_Default (45); BRLHAT-CAT-BRF-G6M-Calc-2018-COMBO_6742431_ENU-Braille_Default (45); (SBAC)SBAC-GEN-SUM-UD-MA-CAT-6-SEG1-Spring_7507912_ENU_Default (275);</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key">
+                <name>Item: Answer Key</name>
+                <val>EQ</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Grade">
+                <name>Item: Grade</name>
+                <val>6</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Format">
+                <name>Item: Item Format</name>
+                <val>EQ</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Page Layout">
+                <name>Item: Page Layout</name>
+                <val>8</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Response Type">
+                <name>Item: Response Type</name>
+                <val>EquationEditor</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Item Point">
+                <name>Item: Item Point</name>
+                <val>1 pt.</val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Answer Key (Part II)">
+                <name>Item: Answer Key (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices">
+                <name>Item:Max Choices</name>
+                <val>NA</val>
+                <desc>NA</desc>
+            </attrib>
+            <attrib attid="itm_att_Max Choices (Part II)">
+                <name>Item:Max Choices (Part II)</name>
+                <val></val>
+                <desc></desc>
+            </attrib>
+        </attriblist>
+        <tutorial id="67863" bankkey="200" />
+        <resourceslist>
+            <resource type="wordList" id="55196" index="1" bankkey="200" />
+        </resourceslist>
+        <statistic />
+        <MachineRubric filename="" />
+        <RendererSpec filename="" />
+        <content language="ENU" version="2.0" approvedVersion="6">
+            <rationaleoptlist />
+            <stem><![CDATA[<p style="">Chloe grows <span id="item_11065_TAG_7" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>soybeans<span class="its-tag" data-tag-ref="item_11065_TAG_7" data-tag-boundary="end"></span> in a rectangular <span id="item_11065_TAG_8" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>field<span class="its-tag" data-tag-ref="item_11065_TAG_8" data-tag-boundary="end"></span>. The area of the field is <img id="item_11065_Object1" style="vertical-align:middle;" src="item_11065_v6_Object1_png16malpha.png" width="24" height="35" /> square miles. The length of the field is <img id="item_11065_Object2" style="vertical-align:middle;" src="item_11065_v6_Object2_png16malpha.png" width="12" height="36" /> of a mile. </p><p style="">&#xA0;</p><p style=""><span id="item_11065_TAG_6" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>Enter<span class="its-tag" data-tag-ref="item_11065_TAG_6" data-tag-boundary="end"></span> the width, in miles, of the soybean <span id="item_11065_TAG_5_BEGIN">field.</span></p>]]></stem>
+            <rubriclist>
+                <rubric scorepoint="">
+                    <name>Rubric </name>
+                    <val><![CDATA[<p style="">&#xA0;</p><p style="">Exemplar:</p><p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="">4.125</p></li></ul><p style="">&#xA0;</p><p style="">Other Correct Responses:</p><p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style=""><img id="item_11065_Object3" style="vertical-align:middle;" src="item_11065_v6_Object3_png16malpha.png" width="23" height="36" /></p></li><li><p style=""><img id="item_11065_Object4" style="vertical-align:middle;" src="item_11065_v6_Object4_png16malpha.png" width="26" height="35" /></p></li></ul><p style="">&#xA0;</p><p style="">For this item, a full-credit response includes</p><p style="">&#xA0;</p><ul style="padding-left:1.5000em; "><li><p style="">(1 point) The student enters 4.125 in the response box. </p></li></ul><p style="">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;</p><p style="">&#xA0;</p><p style="">&#xA0;</p>]]></val>
+                </rubric>
+                <samplelist maxval="" minval="" />
+            </rubriclist>
+            <attachmentlist>
+            </attachmentlist>
+            <apipAccessibility>
+                <accessibilityInfo>
+                    <accessElement identifier="ae3">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_Object1" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>two and three fourths</audioShortDesc>
+                                <audioLongDesc></audioLongDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                                <brailleCode type="Nemeth">#2_?3/4#</brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae4">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_Object2" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>two thirds</audioShortDesc>
+                                <audioLongDesc></audioLongDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                                <brailleCode type="Nemeth">?2/3#</brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae6">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_TAG_5_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>field. The equation tool has two sections, from left to right and top to bottom the equation tool reeds, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, point, negative. In the right section mathematical functions are shown.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>field.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString></brailleTextString>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae7">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_Object3" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>the fraction 33 over 8,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>the fraction 33 over 8,</brailleTextString>
+                                <brailleCode type="Nemeth">?33/8#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae8">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_Object4" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>4 the fraction 1 over 8,</audioShortDesc>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString>4 the fraction 1 over 8,</brailleTextString>
+                                <brailleCode type="Nemeth">#4_?1/8#
+                                </brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                </accessibilityInfo>
+            </apipAccessibility>
+        </content>
+        <content language="ESN" version="2.0" approvedVersion="6">
+            <stem><![CDATA[<p style="">Chloe cultiva soya en un campo de forma rectangular. El <span style="">á</span>rea del campo mide<img id="item_11065_Object5" style="vertical-align:middle;" src="item_11065_v6_Object5_png16malpha.png" width="24" height="35" />millas cuadradas. La longitud del campo es de<img id="item_11065_Object6" style="vertical-align:middle;" src="item_11065_v6_Object6_png16malpha.png" width="12" height="36" />de milla. </p><p style="">&#xA0;</p><p style="">Escribe al ancho, en millas, del campo de soya.</p><p class="languagedivider">&#xA0;</p><p style="">Chloe grows <span id="item_11065_TAG_7" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="2"></span>soybeans<span class="its-tag" data-tag-ref="item_11065_TAG_7" data-tag-boundary="end"></span> in a rectangular <span id="item_11065_TAG_8" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="3"></span>field<span class="its-tag" data-tag-ref="item_11065_TAG_8" data-tag-boundary="end"></span>. The area of the field is <img id="item_11065_Object1" style="vertical-align:middle;" src="item_11065_v6_Object1_png16malpha.png" width="24" height="35" /> square miles. The length of the field is <img id="item_11065_Object2" style="vertical-align:middle;" src="item_11065_v6_Object2_png16malpha.png" width="12" height="36" /> of a mile. </p><p style="">&#xA0;</p><p style=""><span id="item_11065_TAG_6" class="its-tag" data-tag="word" data-tag-boundary="start" data-word-index="1"></span>Enter<span class="its-tag" data-tag-ref="item_11065_TAG_6" data-tag-boundary="end"></span> the width, in miles, of the soybean <span id="item_11065_TAG_5_BEGIN">field.</span></p>]]></stem>
+            <rubriclist>
+                <rubric scorepoint="_Spanish">
+                    <name>Rubric _Spanish</name>
+                    <val><![CDATA[<p style="">&#xA0;</p>]]></val>
+                </rubric>
+                <samplelist maxval="_Spanish" minval="_Spanish" />
+            </rubriclist>
+            <attachmentlist />
+            <apipAccessibility>
+                <accessibilityInfo>
+                    <accessElement identifier="ae3">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_Object1" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>two and three fourths</audioShortDesc>
+                                <audioLongDesc />
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString />
+                                <brailleCode type="Nemeth">#2_?3/4#</brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae4">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_Object2" type="Equation">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <audioShortDesc>two thirds</audioShortDesc>
+                                <audioLongDesc />
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString />
+                                <brailleCode type="Nemeth">?2/3#</brailleCode>
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                    <accessElement identifier="ae6">
+                        <contentLinkInfo itsLinkIdentifierRef="item_11065_TAG_5_BEGIN" type="Text">
+                            <objectLink />
+                        </contentLinkInfo>
+                        <relatedElementInfo>
+                            <readAloud>
+                                <textToSpeechPronunciation>field. The equation tool has two sections, from left to right and top to bottom the equation tool reeds, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, point, negative. In the right section mathematical functions are shown.</textToSpeechPronunciation>
+                                <textToSpeechPronunciationAlternate>field.</textToSpeechPronunciationAlternate>
+                            </readAloud>
+                            <brailleText>
+                                <brailleTextString />
+                            </brailleText>
+                        </relatedElementInfo>
+                    </accessElement>
+                </accessibilityInfo>
+            </apipAccessibility>
+        </content>
+    </item>
+</itemrelease>
