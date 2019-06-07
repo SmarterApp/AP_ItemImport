@@ -3,6 +3,7 @@
 /build/
 /out/
 /classes
+/project
 *.class
 
 # Log file
